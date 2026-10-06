@@ -178,7 +178,7 @@ If you use this code or the Atlas, please cite:
 Rossmassler K\*, Timkovich A\*, Niemeyer B\*, et al. A Trisomy 21 Model Atlas reveals conserved dosage effects and context-specific transcriptional responses across mouse and human models of Down syndrome. *bioRxiv* 2026. [doi:10.64898/2026.09.20.751055](https://doi.org/10.64898/2026.09.20.751055)
 
 **Code**
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23198762.svg)](https://doi.org/10.5281/zenodo.23198762)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23198762.svg)](https://doi.org/10.5281/zenodo.23198762)  
 The DOI above always resolves to the latest release. To cite the exact code used in a publication, use the version DOI listed under [Releases](#releases).
 
 This project is licensed under the MIT License – see the LICENSE file for details.
