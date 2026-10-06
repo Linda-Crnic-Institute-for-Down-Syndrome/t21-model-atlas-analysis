@@ -1,0 +1,51 @@
+{
+  "title": "Trisomy 21 Model Atlas: Analysis Code",
+  "description": "R-based statistical analysis and visualization code for the Trisomy 21 Model Atlas, an openly accessible resource of transcriptomic and histopathological data from mouse and human iPSC-derived models of Down syndrome. Each analysis workflow is a self-contained R Project with an renv lockfile. Atlas data can be explored at https://experimentalmodels.includedcc.org/trisomy-21-model-atlas.html. See the repository README for the release table and data sources.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Galbraith, Matthew D.",
+      "affiliation": "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz",
+      "orcid": "0000-0003-0485-3927"
+    },
+    {
+      "name": "Rossmassler, Karen",
+      "affiliation": "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz"
+    },
+    {
+      "name": "Chillamcherla, Srija",
+      "affiliation": "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz"
+    }
+  ],
+  "keywords": [
+    "R",
+    "bioinformatics",
+    "Down syndrome",
+    "trisomy 21",
+    "mouse models",
+    "induced pluripotent stem cells",
+    "transcriptomics",
+    "RNA-seq",
+    "histopathology",
+    "INCLUDE"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.64898/2026.09.20.751055",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE347972",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://experimentalmodels.includedcc.org/trisomy-21-model-atlas.html",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Supported primarily by NIH grant R24OD035579 as part of the INCLUDE Project at the NIH Office of the Director. Additional support: NIH grants U2CHL156291 and U24AG092191, the Linda Crnic Institute for Down Syndrome, the Global Down Syndrome Foundation, the Anna and John J. Sie Foundation, and the Boettcher Foundation."
+}
