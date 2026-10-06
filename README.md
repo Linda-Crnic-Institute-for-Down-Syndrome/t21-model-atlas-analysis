@@ -2,7 +2,7 @@
 
 Analysis code for the **Trisomy 21 Model Atlas**, an openly accessible resource of transcriptomic and histopathological data from mouse and human iPSC-derived models of Down syndrome.
 
-[![DOI](https://zenodo.org/badge/DOI/[CONCEPT_DOI].svg)](https://doi.org/[CONCEPT_DOI])
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23198762.svg)](https://doi.org/10.5281/zenodo.23198762)
 
 > **Reproducing published results:** the `main` branch reflects the current state of the Atlas and may include updates made after a given publication. To reproduce the analyses in a specific preprint or paper, use the corresponding tagged release listed under [Releases](#releases). For example, code as used in [Rossmassler, Timkovich, Niemeyer et al. (bioRxiv 2026)](https://doi.org/10.64898/2026.09.20.751055) is release **v1.0.0** ([VERSION_DOI]).
 
@@ -37,7 +37,7 @@ This repository contains the R-based secondary analyses (statistics, integration
 
 | Version | Date | Atlas data release | Associated publication | Code DOI |
 |---|---|---|---|---|
-| v1.0.0 | 2026-10-09 | Release 1 | Rossmassler, Timkovich, Niemeyer et al. *bioRxiv* 2026. [doi:10.64898/2026.09.20.751055](https://doi.org/10.64898/2026.09.20.751055) | [VERSION_DOI] |
+| v1.0.0 | 2026-10-09 | Release 1 | Rossmassler, Timkovich, Niemeyer et al. *bioRxiv* 2026. [doi:10.64898/2026.09.20.751055](https://doi.org/10.64898/2026.09.20.751055) | ()[VERSION_DOI] |
 
 Versioning: major versions correspond to Atlas data releases; minor versions to analysis updates within a release (e.g., manuscript revisions).
 
