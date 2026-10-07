@@ -1,0 +1,12 @@
+Variable	Description	Data_type	Values_or_units	Notes
+Sampleid	Unique sample identifier; used as the sample (column) names inside the counts and RPKM data files	character	<Tube_Label>_<tissue label>_<Age_Group> (e.g. T6_558669_Brain_1mo)	Use this column to join meta data with counts and RPKM data. The tissue label in Sampleid is the label used when the data were generated and differs from Tissue for 4mo blood (Whole_Blood) and 4mo large intestine (Lgint); do not reconstruct Sampleid from other columns
+Sex	Sex of mouse	character	Female; Male	
+Genotype	Mouse genotype	character	WT; Dp16	WT = wild-type littermate control; Dp16 = Dp(16)1Yey
+DOB	Date of birth	date	M/D/YY (e.g. 4/28/24)	NA for E18.5 embryos (not yet born)
+Harvest_Date	Date of tissue collection	date	M/D/YY (e.g. 5/29/24)	Age at harvest (Age_in_days) is derived in analysis scripts as Harvest_Date - DOB
+Mouse_ID	Mouse identifier within cage (postnatal) or within litter (embryonic)	character	T0-T15 (postnatal); E1-E10 (E18.5 embryos)	Unique only in combination with Cage_ID
+Cage_ID	Cage identifier (postnatal) or dam/litter cage identifier (embryonic)	character	6-digit identifier (e.g. 558669)	
+Tube_Label	Mouse-level label	character	<Mouse_ID>_<Cage_ID> (e.g. T6_558669)	Identifies an individual mouse; shared by all tissues from that mouse
+Tissue	Tissue collected	character	Blood; Brain; Heart; Intestine; Kidney; Large_Intestine; Liver; Lung; Skin; Whole_Embryo	Harmonized across timepoints. Intestine (E18.5) is whole intestine; Large_Intestine is collected at 1mo and 4mo; Skin and Whole_Embryo are E18.5 only
+Age_Group	Developmental timepoint	character	E18.5; 1mo; 4mo	E18.5 = embryonic day 18.5; 1mo = 1 month; 4mo = 4 months
+RIN	RNA integrity number of the RNA sample	numeric	6.7-10.0	NA for Whole_Embryo samples
