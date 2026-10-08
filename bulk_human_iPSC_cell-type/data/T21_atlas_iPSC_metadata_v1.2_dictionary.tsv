@@ -1,0 +1,19 @@
+Variable	Description	Data_type	Values_or_units	Notes
+Sampleid	Unique sample identifier; used as the sample (column) names inside the counts and RPKM data files	character	e.g. iPSC_626_1; iHSPC_626; iMono_626; iHep_113_2; iLC62_6_D21_neuron	"Use this column to join meta data with counts and RPKM data. Format differs between cell types, and the case of cell line codes differs between sequencing runs (e.g. iHSPC_68BC5, iMono_68bc5), so do not reconstruct Sampleid from other columns"
+Cell_type	Undifferentiated iPSC or iPSC-derived cell type	character	undifferentiated_iPSC; iHSPC; iMonocytes; iHepatocytes; iNeurons; iAstrocytes	The i- prefix denotes iPSC-derived cells. iMonocytes were differentiated from iHSPCs
+Cell_line	iPSC line identifier	character	e.g. iLC 62-6; iLD 7-6; LC 68BC-5; iC4-4; UWWC1-DS1	"LC = D21 control donor; LD = donor with Down syndrome. Lines derive from individual Human Trisome Project donors, except the isogenic pair iLD 11#3 (D21) and iLD 11(2)-1 (T21), derived from the same donor with mosaic T21. iC4-4 and UWWC1-DS1 are used for iNeurons and iAstrocytes only. Names harmonized to the format used in the other datasets (see Comment)"
+Genotype	Chromosome 21 status of the iPSC line	character	D21; T21	D21 = disomic (euploid); T21 = trisomy 21. D21 is the reference level
+Sex	Sex of donor	character	Female; Male	
+Replicate	Replicate number for the cell line within a cell type and sequencing run	integer	1; 2	Replicate differentiation number
+RIN	RNA integrity number	numeric	0-10	NA if not available
+Sequencing_run	Sequencing run name	character	e.g. 20240620_LH00407_0051_A22H52VLT3	NA if not available
+Donor_cell_type	Donor cell type reprogrammed to generate the iPSC line	character	renal epithelial; PBMC	Renal epithelial cells were obtained from urine samples
+Pre_differentiation_passage	iPSC passage number at the start of differentiation	integer	passages	
+Post_differentiation_passage	iPSC passage number recorded at harvest	integer	passages	
+Differentiation_factors	Kits and factors used for differentiation	character	free text	NA for undifferentiated iPSCs
+Days_in_differentiation	Total days in differentiation at harvest	integer	days	NA for undifferentiated iPSCs; iMonocytes include 12 days of iHSPC differentiation
+Oxygen_percent	Oxygen concentration during differentiation	numeric	%	NA for undifferentiated iPSCs
+Coating_matrix	Culture plate coating	character	Matrigel	
+GEO_SubSeries	GEO SubSeries accession holding the counts and RPKM data for the sample's cell type	character	e.g. GSE347268	"SubSeries of SuperSeries GSE347972, except iHepatocytes (GSE296449, previously reported)"
+GEO_title	Sample title as used in GEO	character	free text	Cell line names as originally recorded
+Comment	Curation notes	character	free text	ALL-CAPS comments flag rows for review (e.g. renamed cell lines); NA if none
