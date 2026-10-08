@@ -56,6 +56,7 @@
 # 0 General Setup -----
 # RUN THIS FIRST TIME - Initialize and install packages with renv:
 # renv::init(bioconductor = TRUE)
+# if you get 'project is out-of-sync' warning from renv, try running renv::install() which will often correct the issue.
 # OR to install the exact package versions used (requires matching R version):
 # renv::restore()
 #
