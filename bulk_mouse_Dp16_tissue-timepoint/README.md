@@ -46,7 +46,7 @@ Parallel processing uses `BiocParallel::MulticoreParam()`, which is not availabl
 
 Bulk RNA-seq data for each tissue-timepoint can be obtained from the Gene Expression Omnibus (GEO):
 
-* Gene-level counts and RPKMs: GEO SuperSeries [GSE347972](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE347972), with one SubSeries per tissue-timepoint (4-month lung: [GSE######])
+* Gene-level counts and RPKMs: GEO SuperSeries [GSE347972](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE347972), with one SubSeries per tissue-timepoint (4-month lung: [GSE347804](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE347804))
 
 The following files are provided in the `data/` directory:
 
@@ -54,7 +54,7 @@ The following files are provided in the `data/` directory:
 * Gene annotation derived from [GENCODE mouse release M24](https://www.gencodegenes.org/mouse/release_M24.html) basic annotation GTF (`gene_annotation_Gencode.vM24.basic.txt.gz`)
 * [MSigDB](https://www.gsea-msigdb.org/gsea/msigdb/) mouse Hallmark gene sets v2022.1.Mm (`mh.all.v2022.1.Mm.symbols.gmt`)
 
-Download the required files and place them in the `data/` directory before running the analysis. Section 1.1 of the script includes optional code to download the counts and RPKMs directly from GEO using the `GEOquery` package.
+Download the required files and place them in the `data/` directory before running the analysis. Section 1.1 of the script includes code to download the counts and RPKMs directly from GEO using the `GEOquery` package.
 
 Atlas datasets, including complete differential expression results for every tissue-timepoint, can also be explored in the [Trisomy 21 Model Atlas collection](https://experimentalmodels.includedcc.org/trisomy-21-model-atlas.html) on the INCLUDE Experimental Models of Down Syndrome portal.
 

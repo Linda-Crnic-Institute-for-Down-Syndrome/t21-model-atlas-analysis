@@ -21,9 +21,9 @@
 ### Data type(s):
 #   A. T21 Model Atlas mouse meta data
 #      - T21_atlas_Dp16_metadata_v1.0.tsv (provided in data/)
-#   B. Bulk RNA-seq data (GEO SuperSeries GSE347972; 4-month lung SubSeries)
-#      - T21_atlas_Dp16_4mo_Lung_counts.txt.gz (obtain from GEO)
-#      - T21_atlas_Dp16_4mo_Lung_RPKMs.txt.gz (obtain from GEO)
+#   B. Bulk RNA-seq data (GEO SuperSeries GSE347972; 4-month lung SubSeries GSE347804)
+#      - GSE347804_Lung_4mo_counts_GEO.txt.gz (obtain from GEO)
+#      - GSE347804_Lung_4mo_RPKMs_GEO.txt.gz (obtain from GEO)
 #   C. Gene annotation derived from Gencode vM24 basic GTF
 #      - gene_annotation_Gencode.vM24.basic.txt.gz (provided in data/)
 #   D. MSigDB mouse Hallmark gene sets v2022.1.Mm
@@ -62,6 +62,7 @@
 #
 
 ## 0.1 Load required libraries ----
+library("GEOquery") # for direct GEO downloads
 library("DESeq2") # differential expression analysis
 library("edgeR") # for cpm() function (can also be used for differential expression analysis)
 library("limma") # for removeBatchEffect() function (can also be used for differential expression analysis)
@@ -97,10 +98,10 @@ source(here("helper_functions_DESeq.R")) # load helper functions
 ## 0.2 Set required parameters ----
 # Input data files
 gene_anno_file <- here("data", "gene_annotation_Gencode.vM24.basic.txt.gz") # MOUSE; provided with repository
-counts_file <- here("data", "T21_atlas_Dp16_4mo_Lung_counts.txt.gz") # obtain from GEO
-rpkms_file <- here("data", "T21_atlas_Dp16_4mo_Lung_RPKMs.txt.gz") # obtain from GEO
-meta_data_file <- here("data", "T21_atlas_Dp16_metadata_v1.0.tsv")
-hallmarks_file <- here("data/mh.all.v2022.1.Mm.symbols.gmt") # MSigDB mouse Hallmarks v2022.1.Mm; provided with repository
+counts_file <- here("data", "GSE347804_Lung_4mo_counts_GEO.txt.gz") # obtain from GEO
+rpkms_file <- here("data", "GSE347804_Lung_4mo_RPKMs_GEO.txt.gz") # obtain from GEO
+meta_data_file <- here("data", "T21_atlas_Dp16_metadata_v1.0.tsv") # provided with repository
+hallmarks_file <- here("data", "mh.all.v2022.1.Mm.symbols.gmt") # MSigDB mouse Hallmarks v2022.1.Mm; provided with repository
 #
 # Settings
 min_cpm <- 0.5 # used for low count filtering; default is 0.5
@@ -152,15 +153,15 @@ gene_anno <- gene_anno_file %>%
 gene_anno
 #
 
-## 1.1 (Optional) Download counts and RPKMs from GEO ----
+## 1.1 Download counts and RPKMs from GEO ----
 # Requires the GEOquery package. Files are saved to data/ using their GEO file names;
 # update counts_file and rpkms_file above to match.
-# GEOquery::getGEOSuppFiles(
-#   GEO = "GSE######", # FILL IN: 4-month lung SubSeries of GSE347972
-#   makeDirectory = FALSE,
-#   baseDir = here("data"),
-#   filter_regex = "counts|RPKM"
-# )
+GEOquery::getGEOSuppFiles(
+  GEO = "GSE347804", # 4-month lung SubSeries of GSE347972 (see GEO_SubSeries in meta data for other tissue-timepoints)
+  makeDirectory = FALSE,
+  baseDir = here("data"),
+  filter_regex = "counts|RPKM"
+)
 #
 
 ## 1.2 Read in counts and rpkms data ----
