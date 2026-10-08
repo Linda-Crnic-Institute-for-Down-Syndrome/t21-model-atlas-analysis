@@ -23,8 +23,8 @@
 #   A. T21 Model Atlas iPSC meta data
 #      - T21_atlas_iPSC_metadata_v1.2.tsv (provided in data/)
 #   B. Bulk RNA-seq data (GEO SuperSeries GSE347972; undifferentiated iPSC SubSeries GSE347268)
-#      - iPSC_counts_GEO.txt.gz (obtain from GEO)
-#      - iPSC_RPKMs_GEO.txt.gz (obtain from GEO)
+#      - GSE347268_T21_atlas_iPSC_Gencodev33_counts.txt.gz (obtain from GEO)
+#      - GSE347268_T21_atlas_iPSC_Gencodev33_RPKMs.txt.gz (obtain from GEO)
 #   C. Gene annotation derived from Gencode v33 basic GTF
 #      - gene_annotation_Gencode.v33.basic.txt.gz (provided in data/)
 #   D. MSigDB human Hallmark gene sets v7.4
@@ -98,8 +98,8 @@ source(here("helper_functions_DESeq.R")) # load helper functions
 ## 0.2 Set required parameters ----
 # Input data files
 gene_anno_file <- here("data", "gene_annotation_Gencode.v33.basic.txt.gz") # HUMAN; provided with repository
-counts_file <- here("data", "iPSC_counts_GEO.txt.gz") # obtain from GEO
-rpkms_file <- here("data", "iPSC_RPKMs_GEO.txt.gz") # obtain from GEO
+counts_file <- here("data", "GSE347268_T21_atlas_iPSC_Gencodev33_counts.txt.gz") # obtain from GEO
+rpkms_file <- here("data", "GSE347268_T21_atlas_iPSC_Gencodev33_RPKMs.txt.gz") # obtain from GEO
 meta_data_file <- here("data", "T21_atlas_iPSC_metadata_v1.2.tsv") # provided with repository
 hallmarks_file <- here("data", "h.all.v7.4.symbols.gmt") # MSigDB human Hallmarks v7.4; provided with repository
 #
@@ -122,7 +122,7 @@ out_file_prefix <- "bulk_human_iPSC_undifferentiated_" # used in output file nam
 ## 0.3 Adapting to other cell types ----
 # This workflow was applied separately to each cell type in the Atlas.
 # To run another cell type, edit the following and re-run the script:
-#   - section 0.2: counts_file, rpkms_file, out_file_prefix
+#   - section 0.2: counts_file, rpkms_file, out_file_prefix; section 1.1: GEO SubSeries (see GEO_SubSeries in meta data)
 #   - section 1.3: the Cell_type filter
 #   - section 3 / 4.2: covariates for that cell type (drop covariates that are missing or constant,
 #     e.g. RIN is not available for iNeurons and iAstrocytes)
@@ -153,15 +153,15 @@ gene_anno <- gene_anno_file %>%
 gene_anno
 #
 
-## 1.1 (Optional) Download counts and RPKMs from GEO ----
+## 1.1 Download counts and RPKMs from GEO ----
 # Requires the GEOquery package. Files are saved to data/ using their GEO file names;
 # update counts_file and rpkms_file above to match.
-# GEOquery::getGEOSuppFiles(
-#   GEO = "GSE347268", # undifferentiated iPSC SubSeries of GSE347972 (see GEO_SubSeries in meta data for other cell types)
-#   makeDirectory = FALSE,
-#   baseDir = here("data"),
-#   filter_regex = "counts|RPKM"
-# )
+GEOquery::getGEOSuppFiles(
+  GEO = "GSE347268", # undifferentiated iPSC SubSeries of GSE347972 (see GEO_SubSeries in meta data for other cell types)
+  makeDirectory = FALSE,
+  baseDir = here("data"),
+  filter_regex = "counts|RPKM"
+)
 #
 
 ## 1.2 Read in counts and rpkms data ----

@@ -54,7 +54,7 @@ The following files are provided in the `data/` directory:
 * Gene annotation derived from the [GENCODE human release 33](https://www.gencodegenes.org/human/release_33.html) basic annotation GTF (`gene_annotation_Gencode.v33.basic.txt.gz`)
 * [MSigDB](https://www.gsea-msigdb.org/gsea/msigdb/) human Hallmark gene sets v7.4 (`h.all.v7.4.symbols.gmt`)
 
-Download the required files and place them in the `data/` directory before running the analysis. Section 1.1 of the script includes optional code to download the counts and RPKMs directly from GEO using the `GEOquery` package.
+Download the required files and place them in the `data/` directory before running the analysis, or let section 1.1 of the script download the counts and RPKMs directly from GEO using the `GEOquery` package.
 
 Atlas datasets, including complete differential expression results for every cell type, can also be explored in the [Trisomy 21 Model Atlas collection](https://experimentalmodels.includedcc.org/trisomy-21-model-atlas.html) on the INCLUDE Experimental Models of Down Syndrome portal.
 
