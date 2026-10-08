@@ -58,15 +58,15 @@ t21-model-atlas-analysis/
 ├── bulk_mouse_Dp16_tissue-timepoint/             # Self-contained R Project directory
 │    ├── bulk_mouse_Dp16_tissue-timepoint.Rproj     # RStudio project file; double click to open in RStudio
 │    ├── bulk_mouse_Dp16_tissue-timepoint.R         # Main analysis script
-│    ├── helper_functions.R                         # Associated R functions
-│    ├── data/                                      # Input data (downloaded; not tracked)
+│    ├── helper_functions_DESeq.R                   # Associated R functions
+│    ├── data/                                      # Input data (meta data and annotation provided; counts/RPKMs downloaded from GEO)
 │    ├── results/                                   # Results tables, processed data, model outputs
 │    ├── plots/                                     # Visualizations and plots
 │    ├── rdata/                                     # Workspace images and RDS objects
 │    ├── renv.lock                                  # R package versions for reproducibility
 │    └── README.md                                  # Analysis-specific README
-├── bulk_mouse_Dp16_cross-timepoint/              # Self-contained R Project directory
-├── bulk_mouse_Dp16_sex-tissue-timepoint/         # Self-contained R Project directory
+├── bulk_mouse_Dp16_timepoint-comparison/         # Self-contained R Project directory
+├── bulk_mouse_Dp16_sex-stratified/               # Self-contained R Project directory
 ├── bulk_human_iPSC_cell-type/                    # Self-contained R Project directory
 ├── histo_mouse_Dp16_tissue-timepoint/            # Self-contained R Project directory
 ├── integrated_mouse_Dp16_bulk-histo/             # Self-contained R Project directory
@@ -80,9 +80,9 @@ t21-model-atlas-analysis/
 | Project | Description | Inputs |
 |---|---|---|
 | `bulk_mouse_Dp16_tissue-timepoint` | Dp16 vs. WT differential expression within each tissue–timepoint; cross-tissue comparisons; gene set enrichment | gene-level count and RPKM data |
-| `bulk_mouse_Dp16_cross-timepoint` | Comparisons across E18.5, 1-month, and 4-month timepoints | gene-level count and RPKM data |
-| `bulk_mouse_Dp16_sex-tissue-timepoint` | Sex-stratified differential expression at 4 months | gene-level count and RPKM data |
-| `bulk_human_iPSC_cell-type` | T21 vs. D21 differential expression in undifferentiated iPSCs and five iPSC-derived cell types | gene-level count and RPKM data |
+| `bulk_mouse_Dp16_timepoint-comparison` | Comparisons between timepoints (E18.5, 1 month, 4 months) within each tissue and genotype | gene-level count and RPKM data |
+| `bulk_mouse_Dp16_sex-stratified` | Dp16 vs. WT differential expression within each sex at 4 months | gene-level count and RPKM data |
+| `bulk_human_iPSC_cell-type` | T21 vs. D21 differential expression in undifferentiated and iPSC-derived cell types, each analyzed separately | gene-level count and RPKM data |
 | `histo_mouse_Dp16_tissue-timepoint` | Composite and component histopathology scores; genotype comparisons | Histopathology scores |
 | `integrated_mouse_Dp16_bulk-histo` | Gene expression modeled against composite pathology score in 4-month Dp16 kidney and lung | gene-level count and RPKM data; Histopathology scores |
 
