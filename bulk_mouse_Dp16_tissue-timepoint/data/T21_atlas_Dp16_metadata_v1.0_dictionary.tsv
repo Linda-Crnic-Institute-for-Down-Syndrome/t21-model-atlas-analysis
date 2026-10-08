@@ -10,3 +10,5 @@ Tube_Label	Mouse-level label	character	<Mouse_ID>_<Cage_ID> (e.g. T6_558669)	Ide
 Tissue	Tissue collected	character	Blood; Brain; Heart; Intestine; Kidney; Large_Intestine; Liver; Lung; Skin; Whole_Embryo	Harmonized across timepoints. Intestine (E18.5) is whole intestine; Large_Intestine is collected at 1mo and 4mo; Skin and Whole_Embryo are E18.5 only
 Age_Group	Developmental timepoint	character	E18.5; 1mo; 4mo	E18.5 = embryonic day 18.5; 1mo = 1 month; 4mo = 4 months
 RIN	RNA integrity number of the RNA sample	numeric	6.7-10.0	NA for Whole_Embryo samples
+GEO_SubSeries	GEO SubSeries accession holding the counts and RPKM data for the sample's tissue-timepoint	character	e.g. GSE347804	SubSeries of SuperSeries GSE347972; NA where no SubSeries is listed (see Comment)
+Comment	Curation notes	character	free text	ALL-CAPS comments flag rows for review; NA if none
