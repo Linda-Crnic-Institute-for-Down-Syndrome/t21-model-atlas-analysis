@@ -49,3 +49,6 @@ vignettes/*.pdf
 
 
 .Rproj.user
+
+# GEO downloads (obtain via GEOquery in each script)
+**/data/GSE*_GEO.txt.gz

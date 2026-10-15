@@ -279,6 +279,22 @@ get_results_sum <- function(x, contrast = c(predictor, "denom", "num"), show_ind
 }
 #
 
+# NAMES VERSION - numerical predictor (e.g. composite histopathology Score) ----
+get_results_sum_names <- function(x, name, show_ind_filt_off = TRUE, cooks = TRUE) {
+  message("------------\nResults summary for coefficient: ", name)
+  message("Model formula: ", design(x), "\n------")
+  message("Independent filtering ", if (show_ind_filt_off) "OFF" else "ON",
+          ", Cook's cutoff ", if (cooks) "ON" else "OFF")
+  x |>
+    results(
+      name = name,
+      cooksCutoff = cooks,
+      independentFiltering = !show_ind_filt_off
+    ) |>
+    summary()
+}
+#
+
 # Functions to generate final results tbls in our format (use with for loops to get all comparisons) ------
 # CONTRASTS VERSION
 get_results_tbl <- function(x, contrast = "", cooks = TRUE, ind_filt = TRUE, shrink_type = "apeglm") {
@@ -375,6 +391,62 @@ get_results_tbl <- function(x, contrast = "", cooks = TRUE, ind_filt = TRUE, shr
     select(Gene_name = gene_name, chr, everything())
 }
 
+
+# NAMES VERSION - numerical predictor ----
+# For numeric predictors, which have no factor levels to contrast or relevel.
+# The named coefficient is used directly for both results() and apeglm lfcShrink().
+# Same output columns as get_results_tbl(); log2 fold-changes are per one-unit
+# increase in the predictor. No re-leveling is needed as the coefficient name is
+# taken directly from resultsNames().
+get_results_tbl_names <- function(x, name, cooks = TRUE, ind_filt = TRUE, shrink_type = "apeglm") {
+  #
+  message("------\nGenerating DESeq2 results for coefficient: ", name)
+  message("Model formula: ", design(x), "\n------")
+  ## Get results without LFC shrinkage (default)
+  res <- x |>
+    results(
+      name = name,
+      cooksCutoff = cooks,
+      independentFiltering = ind_filt
+    )
+  res_tbl <- res |>
+    as.data.frame() |>
+    as_tibble(rownames = "Geneid")
+  ## Apply LFC shrinkage to the same coefficient (p-values are from the unshrunken LFC; see notes in get_results_tbl())
+  message("Calculating log2 fold-change shrinkage")
+  res_shrink_tbl <- x |>
+    lfcShrink(
+      coef = name,
+      type = shrink_type, # "apeglm" or "normal" or "ashr"
+      parallel = TRUE,
+      res = res
+    ) |>
+    as.data.frame() |>
+    as_tibble(rownames = "Geneid")
+  # Combine and mutate to get final results tbl
+  message("Assembling final results table\n------")
+  res_tbl |>
+    inner_join(res_shrink_tbl |> select(Geneid, log2FoldChange_adj = log2FoldChange), by = "Geneid") |>
+    mutate(
+      FoldChange = 2^log2FoldChange,
+      FoldChange_adj = 2^log2FoldChange_adj,
+      Model = design(x) |> paste(collapse = "")
+    ) |>
+    dplyr::select(
+      Geneid:baseMean,
+      Model,
+      FoldChange,
+      log2FoldChange,
+      FoldChange_adj,
+      log2FoldChange_adj,
+      pvalue,
+      padj
+    ) |>
+    arrange(padj) |>
+    inner_join(gene_anno, by = "Geneid") |>
+    select(Gene_name = gene_name, chr, everything())
+}
+#
 
 # MA plot functions -----
 plotDEgg <- function(res, sig, title, subtitle){
@@ -508,6 +580,8 @@ volcano_plot_lab <- function(res,
 
 
 # Highlight chr21 genes Volcano plot function -----
+# HUMAN T21-SPECIFIC: triplicated genes defined as all genes on chr21 (full trisomy);
+# change for mouse models or segmental trisomies
 volcano_plot_chr21 <- function(res, title = "", 
                                subtitle = "down in T21                                                  up in T21",
                                y_lim = c(0, NA),
