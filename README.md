@@ -4,7 +4,7 @@ Analysis code for the **Trisomy 21 Model Atlas**, an openly accessible resource 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23198762.svg)](https://doi.org/10.5281/zenodo.23198762)
 
-> **Reproducing published results:** the `main` branch reflects the current state of the Atlas and may include updates made after a given publication. To reproduce the analyses in a specific preprint or paper, use the corresponding tagged release listed under [Releases](#releases). For example, code as used in [Rossmassler, Timkovich, Niemeyer et al. (bioRxiv 2026)](https://doi.org/10.64898/2026.09.20.751055) is release **v1.0.0** ([VERSION_DOI]).
+> **Reproducing published results:** the `main` branch reflects the current state of the Atlas and may include updates made after a given publication. To reproduce the analyses in a specific preprint or paper, use the corresponding tagged release listed under [Releases](#releases). For example, code as used in [Rossmassler, Timkovich, Niemeyer et al. (bioRxiv 2026)](https://doi.org/10.64898/2026.09.20.751055) is release **v1.0.0** (version DOI on the [Zenodo record](https://doi.org/10.5281/zenodo.23198762)).
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Analysis code for the **Trisomy 21 Model Atlas**, an openly accessible resource 
 
 The Trisomy 21 Model Atlas maps the transcriptional and pathological consequences of trisomy 21 across tissues, developmental stages, sexes, and species. The initial release comprises:
 
-* **Mouse:** bulk RNA-seq and blinded histopathology from Dp(16)1Yey (Dp16) and wild-type mice across seven tissues (blood, brain, heart, kidney, intestine, liver, lung) at three timepoints (E18.5, 1 month, 4 months).
+* **Mouse:** bulk RNA-seq from Dp(16)1Yey (Dp16) and wild-type mice across seven tissues (blood, brain, heart, kidney, intestine, liver, lung) at three timepoints (E18.5, 1 month, 4 months), and blinded histopathology across twelve tissues at 1 and 4 months.  
 * **Human:** bulk RNA-seq from a panel of 12 [Human Trisome Project](https://www.trisome.org/) iPSC lines (6 trisomic, 6 disomic), undifferentiated and differentiated into five cell types (iHSPCs, iMonocytes, iHepatocytes, iNeurons, iAstrocytes).
 
 Future releases will add single-cell transcriptomics, multiplexed imaging, and additional mouse models and iPSC-derived systems. Atlas data can be explored interactively in the [Trisomy 21 Model Atlas collection](https://experimentalmodels.includedcc.org/trisomy-21-model-atlas.html) on the INCLUDE Experimental Models of Down Syndrome portal.
@@ -37,7 +37,7 @@ This repository contains the R-based secondary analyses (statistics, integration
 
 | Version | Date | Atlas data release | Associated publication | Code DOI |
 |---|---|---|---|---|
-| v1.0.0 | 2026-10-09 | Release 1 | Rossmassler, Timkovich, Niemeyer et al. *bioRxiv* 2026. [doi:10.64898/2026.09.20.751055](https://doi.org/10.64898/2026.09.20.751055) | ()[VERSION_DOI] |
+| v1.0.0 | 2026-10-14 | Release 1 | Rossmassler, Timkovich, Niemeyer et al. *bioRxiv* 2026. [doi:10.64898/2026.09.20.751055](https://doi.org/10.64898/2026.09.20.751055) | [Zenodo](https://doi.org/10.5281/zenodo.23198762) |
 
 Versioning: major versions correspond to Atlas data releases; minor versions to analysis updates within a release (e.g., manuscript revisions).
 
@@ -81,18 +81,17 @@ t21-model-atlas-analysis/
 |---|---|---|
 | `bulk_mouse_Dp16_tissue-timepoint` | Dp16 vs. WT differential expression within each tissue–timepoint; cross-tissue comparisons; gene set enrichment | gene-level count and RPKM data |
 | `bulk_mouse_Dp16_timepoint-comparison` | Comparisons between timepoints (E18.5, 1 month, 4 months) within each tissue and genotype | gene-level count and RPKM data |
-| `bulk_mouse_Dp16_sex-stratified` | Dp16 vs. WT differential expression within each sex at 4 months | gene-level count and RPKM data |
+| `bulk_mouse_Dp16_sex-stratified` | Dp16 vs. WT differential expression within each sex, for each tissue–timepoint | gene-level count and RPKM data |
 | `bulk_human_iPSC_cell-type` | T21 vs. D21 differential expression in undifferentiated and iPSC-derived cell types, each analyzed separately | gene-level count and RPKM data |
-| `histo_mouse_Dp16_tissue-timepoint` | Composite and component histopathology scores; genotype comparisons | Histopathology scores |
+| `histo_mouse_Dp16_tissue-timepoint` | Dp16 vs. WT comparisons of composite and component histopathology scores within each tissue at 1 and 4 months (one-sided Wilcoxon tests, effect sizes) | Histopathology scores |
 | `integrated_mouse_Dp16_bulk-histo` | Gene expression modeled against composite pathology score in 4-month Dp16 kidney and lung | gene-level count and RPKM data; Histopathology scores |
 
-Where a project uses outputs of another, copy the listed files from the upstream project's `results/` into the downstream project's `data/` directory, as described in each project's README.
 
 ------------------------------------------------------------------------
 
 ## Data Sources
 
-Download each dataset to the appropriate `data/` directory within each R project.
+Count and RPKM files are downloaded from GEO within each analysis script (using GEOquery); meta data, histopathology scores and annotation files are provided in each project’s data/ directory.
 
 ### RNA sequencing
 * **Mouse tissues, undifferentiated iPSCs, iHSPCs, iMonocytes:** GEO SuperSeries [GSE347972](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE347972), with SubSeries for each mouse tissue–timepoint and iPSC cell type.
@@ -102,7 +101,7 @@ Download each dataset to the appropriate `data/` directory within each R project
 Per-series accessions and sequencing metrics are provided in Table S1 of the preprint.
 
 ### Histopathology
-* Composite and component histopathology scores: Table S2 and [Zenodo LOCATION / DOI]
+* Composite and component histopathology scores: provided in the data/ directories of histo_mouse_Dp16_tissue-timepoint (all tissues, 1 and 4 months) and integrated_mouse_Dp16_bulk-histo (4-month lung and kidney, matched to RNA-seq samples), with a data dictionary. Grading criteria are given in Table S14 of the preprint.
 
 ### Interactive access
 Atlas datasets, including complete differential expression results, can be queried and visualized in the [Trisomy 21 Model Atlas collection](https://experimentalmodels.includedcc.org/trisomy-21-model-atlas.html) on the [INCLUDE Experimental Models of Down Syndrome portal](https://experimentalmodels.includedcc.org), part of the [INCLUDE Data Hub](https://portal.includedcc.org).
@@ -127,9 +126,13 @@ The R projects in this repository start from gene-level count and RPKM matrices.
 
 Key packages include:
 * renv
+* GEOquery
 * DESeq2
+* apeglm
+* limma
 * sva
 * fgsea
+* rstatix
 * tidyverse
 * ggplot2
 
