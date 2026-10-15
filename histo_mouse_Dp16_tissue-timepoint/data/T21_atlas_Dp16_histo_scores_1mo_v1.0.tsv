@@ -1,0 +1,2080 @@
+Animal_No	Tissue	Score_name	Score_value	Notes
+T6_669	Skeletal muscle	Myofiber_atrophy	0	Mast cells in the connective tissue
+T6_669	Skeletal muscle	Myofiber_hypertrophy	0	Mast cells in the connective tissue
+T6_669	Skeletal muscle	Myofiber_degeneration	0	Mast cells in the connective tissue
+T6_669	Skeletal muscle	Myofiber_necrosis	0	Mast cells in the connective tissue
+T6_669	Skeletal muscle	Myositis	0	Mast cells in the connective tissue
+T6_669	Skeletal muscle	Inflammation	0	Mast cells in the connective tissue
+T6_669	Skeletal muscle	Inflammatory_type	0	Mast cells in the connective tissue
+T6_669	Skeletal muscle	Composite_Score	0	Mast cells in the connective tissue
+T0_670	Skeletal muscle	Myofiber_atrophy	0	NA
+T0_670	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T0_670	Skeletal muscle	Myofiber_degeneration	0	NA
+T0_670	Skeletal muscle	Myofiber_necrosis	0	NA
+T0_670	Skeletal muscle	Myositis	0	NA
+T0_670	Skeletal muscle	Inflammation	0	NA
+T0_670	Skeletal muscle	Inflammatory_type	0	NA
+T0_670	Skeletal muscle	Composite_Score	0	NA
+T1_670	Skeletal muscle	Myofiber_atrophy	0	NA
+T1_670	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T1_670	Skeletal muscle	Myofiber_degeneration	0	NA
+T1_670	Skeletal muscle	Myofiber_necrosis	0	NA
+T1_670	Skeletal muscle	Myositis	0	NA
+T1_670	Skeletal muscle	Inflammation	0	NA
+T1_670	Skeletal muscle	Inflammatory_type	0	NA
+T1_670	Skeletal muscle	Composite_Score	0	NA
+T2_670	Skeletal muscle	Myofiber_atrophy	0	Scattered lymph/plasma cells in interstitium and adipose
+T2_670	Skeletal muscle	Myofiber_hypertrophy	0	Scattered lymph/plasma cells in interstitium and adipose
+T2_670	Skeletal muscle	Myofiber_degeneration	0	Scattered lymph/plasma cells in interstitium and adipose
+T2_670	Skeletal muscle	Myofiber_necrosis	0	Scattered lymph/plasma cells in interstitium and adipose
+T2_670	Skeletal muscle	Myositis	0	Scattered lymph/plasma cells in interstitium and adipose
+T2_670	Skeletal muscle	Inflammation	1	Scattered lymph/plasma cells in interstitium and adipose
+T2_670	Skeletal muscle	Inflammatory_type	1	Scattered lymph/plasma cells in interstitium and adipose
+T2_670	Skeletal muscle	Composite_Score	2	Scattered lymph/plasma cells in interstitium and adipose
+T3_670	Skeletal muscle	Myofiber_atrophy	0	NA
+T3_670	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T3_670	Skeletal muscle	Myofiber_degeneration	0	NA
+T3_670	Skeletal muscle	Myofiber_necrosis	0	NA
+T3_670	Skeletal muscle	Myositis	0	NA
+T3_670	Skeletal muscle	Inflammation	0	NA
+T3_670	Skeletal muscle	Inflammatory_type	0	NA
+T3_670	Skeletal muscle	Composite_Score	0	NA
+T4_670	Skeletal muscle	Myofiber_atrophy	0	NA
+T4_670	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T4_670	Skeletal muscle	Myofiber_degeneration	1	NA
+T4_670	Skeletal muscle	Myofiber_necrosis	0	NA
+T4_670	Skeletal muscle	Myositis	0	NA
+T4_670	Skeletal muscle	Inflammation	0	NA
+T4_670	Skeletal muscle	Inflammatory_type	0	NA
+T4_670	Skeletal muscle	Composite_Score	1	NA
+T5_671	Skeletal muscle	Myofiber_atrophy	0	NA
+T5_671	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T5_671	Skeletal muscle	Myofiber_degeneration	0	NA
+T5_671	Skeletal muscle	Myofiber_necrosis	0	NA
+T5_671	Skeletal muscle	Myositis	0	NA
+T5_671	Skeletal muscle	Inflammation	0	NA
+T5_671	Skeletal muscle	Inflammatory_type	0	NA
+T5_671	Skeletal muscle	Composite_Score	0	NA
+T6_671	Skeletal muscle	Myofiber_atrophy	0	NA
+T6_671	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T6_671	Skeletal muscle	Myofiber_degeneration	0	NA
+T6_671	Skeletal muscle	Myofiber_necrosis	0	NA
+T6_671	Skeletal muscle	Myositis	0	NA
+T6_671	Skeletal muscle	Inflammation	0	NA
+T6_671	Skeletal muscle	Inflammatory_type	0	NA
+T6_671	Skeletal muscle	Composite_Score	0	NA
+T7_671	Skeletal muscle	Myofiber_atrophy	0	NA
+T7_671	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T7_671	Skeletal muscle	Myofiber_degeneration	0	NA
+T7_671	Skeletal muscle	Myofiber_necrosis	0	NA
+T7_671	Skeletal muscle	Myositis	0	NA
+T7_671	Skeletal muscle	Inflammation	0	NA
+T7_671	Skeletal muscle	Inflammatory_type	0	NA
+T7_671	Skeletal muscle	Composite_Score	0	NA
+T8_671	Skeletal muscle	Myofiber_atrophy	0	NA
+T8_671	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T8_671	Skeletal muscle	Myofiber_degeneration	0	NA
+T8_671	Skeletal muscle	Myofiber_necrosis	0	NA
+T8_671	Skeletal muscle	Myositis	0	NA
+T8_671	Skeletal muscle	Inflammation	0	NA
+T8_671	Skeletal muscle	Inflammatory_type	0	NA
+T8_671	Skeletal muscle	Composite_Score	0	NA
+T10_672	Skeletal muscle	Myofiber_atrophy	0	NA
+T10_672	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T10_672	Skeletal muscle	Myofiber_degeneration	0	NA
+T10_672	Skeletal muscle	Myofiber_necrosis	0	NA
+T10_672	Skeletal muscle	Myositis	0	NA
+T10_672	Skeletal muscle	Inflammation	0	NA
+T10_672	Skeletal muscle	Inflammatory_type	0	NA
+T10_672	Skeletal muscle	Composite_Score	0	NA
+T11_672	Skeletal muscle	Myofiber_atrophy	0	NA
+T11_672	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T11_672	Skeletal muscle	Myofiber_degeneration	0	NA
+T11_672	Skeletal muscle	Myofiber_necrosis	0	NA
+T11_672	Skeletal muscle	Myositis	0	NA
+T11_672	Skeletal muscle	Inflammation	0	NA
+T11_672	Skeletal muscle	Inflammatory_type	0	NA
+T11_672	Skeletal muscle	Composite_Score	0	NA
+T12_672	Skeletal muscle	Myofiber_atrophy	0	NA
+T12_672	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T12_672	Skeletal muscle	Myofiber_degeneration	0	NA
+T12_672	Skeletal muscle	Myofiber_necrosis	0	NA
+T12_672	Skeletal muscle	Myositis	0	NA
+T12_672	Skeletal muscle	Inflammation	0	NA
+T12_672	Skeletal muscle	Inflammatory_type	0	NA
+T12_672	Skeletal muscle	Composite_Score	0	NA
+T13_673	Skeletal muscle	Myofiber_atrophy	0	NA
+T13_673	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T13_673	Skeletal muscle	Myofiber_degeneration	0	NA
+T13_673	Skeletal muscle	Myofiber_necrosis	0	NA
+T13_673	Skeletal muscle	Myositis	0	NA
+T13_673	Skeletal muscle	Inflammation	0	NA
+T13_673	Skeletal muscle	Inflammatory_type	0	NA
+T13_673	Skeletal muscle	Composite_Score	0	NA
+T14_673	Skeletal muscle	Myofiber_atrophy	0	NA
+T14_673	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T14_673	Skeletal muscle	Myofiber_degeneration	0	NA
+T14_673	Skeletal muscle	Myofiber_necrosis	0	NA
+T14_673	Skeletal muscle	Myositis	0	NA
+T14_673	Skeletal muscle	Inflammation	0	NA
+T14_673	Skeletal muscle	Inflammatory_type	0	NA
+T14_673	Skeletal muscle	Composite_Score	0	NA
+T15_673	Skeletal muscle	Myofiber_atrophy	0	NA
+T15_673	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T15_673	Skeletal muscle	Myofiber_degeneration	0	NA
+T15_673	Skeletal muscle	Myofiber_necrosis	0	NA
+T15_673	Skeletal muscle	Myositis	0	NA
+T15_673	Skeletal muscle	Inflammation	0	NA
+T15_673	Skeletal muscle	Inflammatory_type	0	NA
+T15_673	Skeletal muscle	Composite_Score	0	NA
+T2_674	Skeletal muscle	Myofiber_atrophy	0	NA
+T2_674	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T2_674	Skeletal muscle	Myofiber_degeneration	0	NA
+T2_674	Skeletal muscle	Myofiber_necrosis	0	NA
+T2_674	Skeletal muscle	Myositis	0	NA
+T2_674	Skeletal muscle	Inflammation	0	NA
+T2_674	Skeletal muscle	Inflammatory_type	0	NA
+T2_674	Skeletal muscle	Composite_Score	0	NA
+T3_674	Skeletal muscle	Myofiber_atrophy	0	NA
+T3_674	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T3_674	Skeletal muscle	Myofiber_degeneration	0	NA
+T3_674	Skeletal muscle	Myofiber_necrosis	0	NA
+T3_674	Skeletal muscle	Myositis	0	NA
+T3_674	Skeletal muscle	Inflammation	0	NA
+T3_674	Skeletal muscle	Inflammatory_type	0	NA
+T3_674	Skeletal muscle	Composite_Score	0	NA
+T0_675	Skeletal muscle	Myofiber_atrophy	0	NA
+T0_675	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T0_675	Skeletal muscle	Myofiber_degeneration	0	NA
+T0_675	Skeletal muscle	Myofiber_necrosis	0	NA
+T0_675	Skeletal muscle	Myositis	0	NA
+T0_675	Skeletal muscle	Inflammation	0	NA
+T0_675	Skeletal muscle	Inflammatory_type	0	NA
+T0_675	Skeletal muscle	Composite_Score	0	NA
+T2_675	Skeletal muscle	Myofiber_atrophy	0	NA
+T2_675	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T2_675	Skeletal muscle	Myofiber_degeneration	0	NA
+T2_675	Skeletal muscle	Myofiber_necrosis	0	NA
+T2_675	Skeletal muscle	Myositis	0	NA
+T2_675	Skeletal muscle	Inflammation	0	NA
+T2_675	Skeletal muscle	Inflammatory_type	0	NA
+T2_675	Skeletal muscle	Composite_Score	0	NA
+T3_675	Skeletal muscle	Myofiber_atrophy	0	NA
+T3_675	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T3_675	Skeletal muscle	Myofiber_degeneration	0	NA
+T3_675	Skeletal muscle	Myofiber_necrosis	0	NA
+T3_675	Skeletal muscle	Myositis	0	NA
+T3_675	Skeletal muscle	Inflammation	0	NA
+T3_675	Skeletal muscle	Inflammatory_type	0	NA
+T3_675	Skeletal muscle	Composite_Score	0	NA
+T10_677	Skeletal muscle	Myofiber_atrophy	0	NA
+T10_677	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T10_677	Skeletal muscle	Myofiber_degeneration	0	NA
+T10_677	Skeletal muscle	Myofiber_necrosis	0	NA
+T10_677	Skeletal muscle	Myositis	0	NA
+T10_677	Skeletal muscle	Inflammation	0	NA
+T10_677	Skeletal muscle	Inflammatory_type	0	NA
+T10_677	Skeletal muscle	Composite_Score	0	NA
+T11_677	Skeletal muscle	Myofiber_atrophy	0	NA
+T11_677	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T11_677	Skeletal muscle	Myofiber_degeneration	0	NA
+T11_677	Skeletal muscle	Myofiber_necrosis	0	NA
+T11_677	Skeletal muscle	Myositis	0	NA
+T11_677	Skeletal muscle	Inflammation	0	NA
+T11_677	Skeletal muscle	Inflammatory_type	0	NA
+T11_677	Skeletal muscle	Composite_Score	0	NA
+T13_677	Skeletal muscle	Myofiber_atrophy	0	NA
+T13_677	Skeletal muscle	Myofiber_hypertrophy	0	NA
+T13_677	Skeletal muscle	Myofiber_degeneration	0	NA
+T13_677	Skeletal muscle	Myofiber_necrosis	0	NA
+T13_677	Skeletal muscle	Myositis	0	NA
+T13_677	Skeletal muscle	Inflammation	0	NA
+T13_677	Skeletal muscle	Inflammatory_type	0	NA
+T13_677	Skeletal muscle	Composite_Score	0	NA
+T6_669	Small intestines	Inflammation	0	NA
+T6_669	Small intestines	Extend_of_inflammation	0	NA
+T6_669	Small intestines	Villous_blunting	0	NA
+T6_669	Small intestines	Enterocyte_damage	0	NA
+T6_669	Small intestines	Crypt_regen	0	NA
+T6_669	Small intestines	Percent_tissue_involvement	0	NA
+T6_669	Small intestines	Crypt_abscess	0	NA
+T6_669	Small intestines	Composite_Score	0	NA
+T0_670	Small intestines	Inflammation	0	NA
+T0_670	Small intestines	Extend_of_inflammation	0	NA
+T0_670	Small intestines	Villous_blunting	0	NA
+T0_670	Small intestines	Enterocyte_damage	0	NA
+T0_670	Small intestines	Crypt_regen	0	NA
+T0_670	Small intestines	Percent_tissue_involvement	0	NA
+T0_670	Small intestines	Crypt_abscess	0	NA
+T0_670	Small intestines	Composite_Score	0	NA
+T1_670	Small intestines	Inflammation	0	NA
+T1_670	Small intestines	Extend_of_inflammation	0	NA
+T1_670	Small intestines	Villous_blunting	0	NA
+T1_670	Small intestines	Enterocyte_damage	0	NA
+T1_670	Small intestines	Crypt_regen	0	NA
+T1_670	Small intestines	Percent_tissue_involvement	0	NA
+T1_670	Small intestines	Crypt_abscess	0	NA
+T1_670	Small intestines	Composite_Score	0	NA
+T2_670	Small intestines	Inflammation	0	NA
+T2_670	Small intestines	Extend_of_inflammation	0	NA
+T2_670	Small intestines	Villous_blunting	0	NA
+T2_670	Small intestines	Enterocyte_damage	0	NA
+T2_670	Small intestines	Crypt_regen	0	NA
+T2_670	Small intestines	Percent_tissue_involvement	0	NA
+T2_670	Small intestines	Crypt_abscess	0	NA
+T2_670	Small intestines	Composite_Score	0	NA
+T3_670	Small intestines	Inflammation	0	NA
+T3_670	Small intestines	Extend_of_inflammation	0	NA
+T3_670	Small intestines	Villous_blunting	0	NA
+T3_670	Small intestines	Enterocyte_damage	0	NA
+T3_670	Small intestines	Crypt_regen	0	NA
+T3_670	Small intestines	Percent_tissue_involvement	0	NA
+T3_670	Small intestines	Crypt_abscess	0	NA
+T3_670	Small intestines	Composite_Score	0	NA
+T4_670	Small intestines	Inflammation	0	NA
+T4_670	Small intestines	Extend_of_inflammation	0	NA
+T4_670	Small intestines	Villous_blunting	0	NA
+T4_670	Small intestines	Enterocyte_damage	0	NA
+T4_670	Small intestines	Crypt_regen	0	NA
+T4_670	Small intestines	Percent_tissue_involvement	0	NA
+T4_670	Small intestines	Crypt_abscess	0	NA
+T4_670	Small intestines	Composite_Score	0	NA
+T5_671	Small intestines	Inflammation	0	NA
+T5_671	Small intestines	Extend_of_inflammation	0	NA
+T5_671	Small intestines	Villous_blunting	0	NA
+T5_671	Small intestines	Enterocyte_damage	0	NA
+T5_671	Small intestines	Crypt_regen	0	NA
+T5_671	Small intestines	Percent_tissue_involvement	0	NA
+T5_671	Small intestines	Crypt_abscess	0	NA
+T5_671	Small intestines	Composite_Score	0	NA
+T6_671	Small intestines	Inflammation	0	NA
+T6_671	Small intestines	Extend_of_inflammation	0	NA
+T6_671	Small intestines	Villous_blunting	0	NA
+T6_671	Small intestines	Enterocyte_damage	0	NA
+T6_671	Small intestines	Crypt_regen	0	NA
+T6_671	Small intestines	Percent_tissue_involvement	0	NA
+T6_671	Small intestines	Crypt_abscess	0	NA
+T6_671	Small intestines	Composite_Score	0	NA
+T7_671	Small intestines	Inflammation	0	NA
+T7_671	Small intestines	Extend_of_inflammation	0	NA
+T7_671	Small intestines	Villous_blunting	0	NA
+T7_671	Small intestines	Enterocyte_damage	0	NA
+T7_671	Small intestines	Crypt_regen	0	NA
+T7_671	Small intestines	Percent_tissue_involvement	0	NA
+T7_671	Small intestines	Crypt_abscess	0	NA
+T7_671	Small intestines	Composite_Score	0	NA
+T8_671	Small intestines	Inflammation	0	NA
+T8_671	Small intestines	Extend_of_inflammation	0	NA
+T8_671	Small intestines	Villous_blunting	0	NA
+T8_671	Small intestines	Enterocyte_damage	0	NA
+T8_671	Small intestines	Crypt_regen	0	NA
+T8_671	Small intestines	Percent_tissue_involvement	0	NA
+T8_671	Small intestines	Crypt_abscess	0	NA
+T8_671	Small intestines	Composite_Score	0	NA
+T10_672	Small intestines	Inflammation	0	NA
+T10_672	Small intestines	Extend_of_inflammation	0	NA
+T10_672	Small intestines	Villous_blunting	0	NA
+T10_672	Small intestines	Enterocyte_damage	0	NA
+T10_672	Small intestines	Crypt_regen	0	NA
+T10_672	Small intestines	Percent_tissue_involvement	0	NA
+T10_672	Small intestines	Crypt_abscess	0	NA
+T10_672	Small intestines	Composite_Score	0	NA
+T11_672	Small intestines	Inflammation	0	NA
+T11_672	Small intestines	Extend_of_inflammation	0	NA
+T11_672	Small intestines	Villous_blunting	0	NA
+T11_672	Small intestines	Enterocyte_damage	0	NA
+T11_672	Small intestines	Crypt_regen	0	NA
+T11_672	Small intestines	Percent_tissue_involvement	0	NA
+T11_672	Small intestines	Crypt_abscess	0	NA
+T11_672	Small intestines	Composite_Score	0	NA
+T12_672	Small intestines	Inflammation	0	NA
+T12_672	Small intestines	Extend_of_inflammation	0	NA
+T12_672	Small intestines	Villous_blunting	0	NA
+T12_672	Small intestines	Enterocyte_damage	0	NA
+T12_672	Small intestines	Crypt_regen	0	NA
+T12_672	Small intestines	Percent_tissue_involvement	0	NA
+T12_672	Small intestines	Crypt_abscess	0	NA
+T12_672	Small intestines	Composite_Score	0	NA
+T13_673	Small intestines	Inflammation	0	NA
+T13_673	Small intestines	Extend_of_inflammation	0	NA
+T13_673	Small intestines	Villous_blunting	0	NA
+T13_673	Small intestines	Enterocyte_damage	0	NA
+T13_673	Small intestines	Crypt_regen	0	NA
+T13_673	Small intestines	Percent_tissue_involvement	0	NA
+T13_673	Small intestines	Crypt_abscess	0	NA
+T13_673	Small intestines	Composite_Score	0	NA
+T14_673	Small intestines	Inflammation	0	NA
+T14_673	Small intestines	Extend_of_inflammation	0	NA
+T14_673	Small intestines	Villous_blunting	0	NA
+T14_673	Small intestines	Enterocyte_damage	0	NA
+T14_673	Small intestines	Crypt_regen	0	NA
+T14_673	Small intestines	Percent_tissue_involvement	0	NA
+T14_673	Small intestines	Crypt_abscess	0	NA
+T14_673	Small intestines	Composite_Score	0	NA
+T15_673	Small intestines	Inflammation	0	NA
+T15_673	Small intestines	Extend_of_inflammation	0	NA
+T15_673	Small intestines	Villous_blunting	0	NA
+T15_673	Small intestines	Enterocyte_damage	0	NA
+T15_673	Small intestines	Crypt_regen	0	NA
+T15_673	Small intestines	Percent_tissue_involvement	0	NA
+T15_673	Small intestines	Crypt_abscess	0	NA
+T15_673	Small intestines	Composite_Score	0	NA
+T2_674	Small intestines	Inflammation	0	NA
+T2_674	Small intestines	Extend_of_inflammation	0	NA
+T2_674	Small intestines	Villous_blunting	0	NA
+T2_674	Small intestines	Enterocyte_damage	0	NA
+T2_674	Small intestines	Crypt_regen	0	NA
+T2_674	Small intestines	Percent_tissue_involvement	0	NA
+T2_674	Small intestines	Crypt_abscess	0	NA
+T2_674	Small intestines	Composite_Score	0	NA
+T3_674	Small intestines	Inflammation	0	NA
+T3_674	Small intestines	Extend_of_inflammation	0	NA
+T3_674	Small intestines	Villous_blunting	0	NA
+T3_674	Small intestines	Enterocyte_damage	0	NA
+T3_674	Small intestines	Crypt_regen	0	NA
+T3_674	Small intestines	Percent_tissue_involvement	0	NA
+T3_674	Small intestines	Crypt_abscess	0	NA
+T3_674	Small intestines	Composite_Score	0	NA
+T0_675	Small intestines	Inflammation	0	NA
+T0_675	Small intestines	Extend_of_inflammation	0	NA
+T0_675	Small intestines	Villous_blunting	0	NA
+T0_675	Small intestines	Enterocyte_damage	0	NA
+T0_675	Small intestines	Crypt_regen	0	NA
+T0_675	Small intestines	Percent_tissue_involvement	0	NA
+T0_675	Small intestines	Crypt_abscess	0	NA
+T0_675	Small intestines	Composite_Score	0	NA
+T2_675	Small intestines	Inflammation	0	NA
+T2_675	Small intestines	Extend_of_inflammation	0	NA
+T2_675	Small intestines	Villous_blunting	0	NA
+T2_675	Small intestines	Enterocyte_damage	0	NA
+T2_675	Small intestines	Crypt_regen	0	NA
+T2_675	Small intestines	Percent_tissue_involvement	0	NA
+T2_675	Small intestines	Crypt_abscess	0	NA
+T2_675	Small intestines	Composite_Score	0	NA
+T3_675	Small intestines	Inflammation	0	NA
+T3_675	Small intestines	Extend_of_inflammation	0	NA
+T3_675	Small intestines	Villous_blunting	0	NA
+T3_675	Small intestines	Enterocyte_damage	0	NA
+T3_675	Small intestines	Crypt_regen	0	NA
+T3_675	Small intestines	Percent_tissue_involvement	0	NA
+T3_675	Small intestines	Crypt_abscess	0	NA
+T3_675	Small intestines	Composite_Score	0	NA
+T10_677	Small intestines	Inflammation	0	NA
+T10_677	Small intestines	Extend_of_inflammation	0	NA
+T10_677	Small intestines	Villous_blunting	0	NA
+T10_677	Small intestines	Enterocyte_damage	0	NA
+T10_677	Small intestines	Crypt_regen	0	NA
+T10_677	Small intestines	Percent_tissue_involvement	0	NA
+T10_677	Small intestines	Crypt_abscess	0	NA
+T10_677	Small intestines	Composite_Score	0	NA
+T11_677	Small intestines	Inflammation	0	NA
+T11_677	Small intestines	Extend_of_inflammation	0	NA
+T11_677	Small intestines	Villous_blunting	0	NA
+T11_677	Small intestines	Enterocyte_damage	0	NA
+T11_677	Small intestines	Crypt_regen	0	NA
+T11_677	Small intestines	Percent_tissue_involvement	0	NA
+T11_677	Small intestines	Crypt_abscess	0	NA
+T11_677	Small intestines	Composite_Score	0	NA
+T13_677	Small intestines	Inflammation	0	NA
+T13_677	Small intestines	Extend_of_inflammation	0	NA
+T13_677	Small intestines	Villous_blunting	0	NA
+T13_677	Small intestines	Enterocyte_damage	0	NA
+T13_677	Small intestines	Crypt_regen	0	NA
+T13_677	Small intestines	Percent_tissue_involvement	0	NA
+T13_677	Small intestines	Crypt_abscess	0	NA
+T13_677	Small intestines	Composite_Score	0	NA
+T6_669	Colon	Inflammation	0	Prominent preyer patches
+T6_669	Colon	Extend_of_inflammation	0	Prominent preyer patches
+T6_669	Colon	Goblet_cell_metaplasia	0	Prominent preyer patches
+T6_669	Colon	Enterocyte_damage	0	Prominent preyer patches
+T6_669	Colon	Crypt_regeneration	0	Prominent preyer patches
+T6_669	Colon	Percent_tissue_involvement	0	Prominent preyer patches
+T6_669	Colon	Crypts_with_loss_of_goblets_cells	0	Prominent preyer patches
+T6_669	Colon	Composite_Score	0	Prominent preyer patches
+T0_670	Colon	Inflammation	0	NA
+T0_670	Colon	Extend_of_inflammation	0	NA
+T0_670	Colon	Goblet_cell_metaplasia	0	NA
+T0_670	Colon	Enterocyte_damage	0	NA
+T0_670	Colon	Crypt_regeneration	0	NA
+T0_670	Colon	Percent_tissue_involvement	0	NA
+T0_670	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T0_670	Colon	Composite_Score	0	NA
+T1_670	Colon	Inflammation	0	NA
+T1_670	Colon	Extend_of_inflammation	0	NA
+T1_670	Colon	Goblet_cell_metaplasia	0	NA
+T1_670	Colon	Enterocyte_damage	0	NA
+T1_670	Colon	Crypt_regeneration	0	NA
+T1_670	Colon	Percent_tissue_involvement	0	NA
+T1_670	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T1_670	Colon	Composite_Score	0	NA
+T2_670	Colon	Inflammation	0	NA
+T2_670	Colon	Extend_of_inflammation	0	NA
+T2_670	Colon	Goblet_cell_metaplasia	0	NA
+T2_670	Colon	Enterocyte_damage	0	NA
+T2_670	Colon	Crypt_regeneration	0	NA
+T2_670	Colon	Percent_tissue_involvement	0	NA
+T2_670	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T2_670	Colon	Composite_Score	0	NA
+T3_670	Colon	Inflammation	0	NA
+T3_670	Colon	Extend_of_inflammation	0	NA
+T3_670	Colon	Goblet_cell_metaplasia	0	NA
+T3_670	Colon	Enterocyte_damage	0	NA
+T3_670	Colon	Crypt_regeneration	0	NA
+T3_670	Colon	Percent_tissue_involvement	0	NA
+T3_670	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T3_670	Colon	Composite_Score	0	NA
+T4_670	Colon	Inflammation	0	Prominent preyer patch, lymph node in section
+T4_670	Colon	Extend_of_inflammation	0	Prominent preyer patch, lymph node in section
+T4_670	Colon	Goblet_cell_metaplasia	0	Prominent preyer patch, lymph node in section
+T4_670	Colon	Enterocyte_damage	0	Prominent preyer patch, lymph node in section
+T4_670	Colon	Crypt_regeneration	0	Prominent preyer patch, lymph node in section
+T4_670	Colon	Percent_tissue_involvement	0	Prominent preyer patch, lymph node in section
+T4_670	Colon	Crypts_with_loss_of_goblets_cells	0	Prominent preyer patch, lymph node in section
+T4_670	Colon	Composite_Score	0	Prominent preyer patch, lymph node in section
+T5_671	Colon	Inflammation	0	NA
+T5_671	Colon	Extend_of_inflammation	0	NA
+T5_671	Colon	Goblet_cell_metaplasia	0	NA
+T5_671	Colon	Enterocyte_damage	0	NA
+T5_671	Colon	Crypt_regeneration	0	NA
+T5_671	Colon	Percent_tissue_involvement	0	NA
+T5_671	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T5_671	Colon	Composite_Score	0	NA
+T6_671	Colon	Inflammation	0	NA
+T6_671	Colon	Extend_of_inflammation	0	NA
+T6_671	Colon	Goblet_cell_metaplasia	0	NA
+T6_671	Colon	Enterocyte_damage	0	NA
+T6_671	Colon	Crypt_regeneration	0	NA
+T6_671	Colon	Percent_tissue_involvement	0	NA
+T6_671	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T6_671	Colon	Composite_Score	0	NA
+T7_671	Colon	Inflammation	0	Mesenteric EMH
+T7_671	Colon	Extend_of_inflammation	0	Mesenteric EMH
+T7_671	Colon	Goblet_cell_metaplasia	0	Mesenteric EMH
+T7_671	Colon	Enterocyte_damage	0	Mesenteric EMH
+T7_671	Colon	Crypt_regeneration	0	Mesenteric EMH
+T7_671	Colon	Percent_tissue_involvement	0	Mesenteric EMH
+T7_671	Colon	Crypts_with_loss_of_goblets_cells	0	Mesenteric EMH
+T7_671	Colon	Composite_Score	0	Mesenteric EMH
+T8_671	Colon	Inflammation	0	NA
+T8_671	Colon	Extend_of_inflammation	0	NA
+T8_671	Colon	Goblet_cell_metaplasia	0	NA
+T8_671	Colon	Enterocyte_damage	0	NA
+T8_671	Colon	Crypt_regeneration	0	NA
+T8_671	Colon	Percent_tissue_involvement	0	NA
+T8_671	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T8_671	Colon	Composite_Score	0	NA
+T10_672	Colon	Inflammation	0	NA
+T10_672	Colon	Extend_of_inflammation	0	NA
+T10_672	Colon	Goblet_cell_metaplasia	0	NA
+T10_672	Colon	Enterocyte_damage	0	NA
+T10_672	Colon	Crypt_regeneration	0	NA
+T10_672	Colon	Percent_tissue_involvement	0	NA
+T10_672	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T10_672	Colon	Composite_Score	0	NA
+T11_672	Colon	Inflammation	0	NA
+T11_672	Colon	Extend_of_inflammation	0	NA
+T11_672	Colon	Goblet_cell_metaplasia	0	NA
+T11_672	Colon	Enterocyte_damage	0	NA
+T11_672	Colon	Crypt_regeneration	0	NA
+T11_672	Colon	Percent_tissue_involvement	0	NA
+T11_672	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T11_672	Colon	Composite_Score	0	NA
+T12_672	Colon	Inflammation	0	NA
+T12_672	Colon	Extend_of_inflammation	0	NA
+T12_672	Colon	Goblet_cell_metaplasia	0	NA
+T12_672	Colon	Enterocyte_damage	0	NA
+T12_672	Colon	Crypt_regeneration	0	NA
+T12_672	Colon	Percent_tissue_involvement	0	NA
+T12_672	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T12_672	Colon	Composite_Score	0	NA
+T13_673	Colon	Inflammation	0	Small intestines
+T13_673	Colon	Extend_of_inflammation	0	Small intestines
+T13_673	Colon	Goblet_cell_metaplasia	0	Small intestines
+T13_673	Colon	Enterocyte_damage	0	Small intestines
+T13_673	Colon	Crypt_regeneration	0	Small intestines
+T13_673	Colon	Percent_tissue_involvement	0	Small intestines
+T13_673	Colon	Crypts_with_loss_of_goblets_cells	0	Small intestines
+T13_673	Colon	Composite_Score	0	Small intestines
+T14_673	Colon	Inflammation	0	NA
+T14_673	Colon	Extend_of_inflammation	0	NA
+T14_673	Colon	Goblet_cell_metaplasia	0	NA
+T14_673	Colon	Enterocyte_damage	0	NA
+T14_673	Colon	Crypt_regeneration	0	NA
+T14_673	Colon	Percent_tissue_involvement	0	NA
+T14_673	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T14_673	Colon	Composite_Score	0	NA
+T15_673	Colon	Inflammation	0	Small intestines
+T15_673	Colon	Extend_of_inflammation	0	Small intestines
+T15_673	Colon	Goblet_cell_metaplasia	0	Small intestines
+T15_673	Colon	Enterocyte_damage	0	Small intestines
+T15_673	Colon	Crypt_regeneration	0	Small intestines
+T15_673	Colon	Percent_tissue_involvement	0	Small intestines
+T15_673	Colon	Crypts_with_loss_of_goblets_cells	0	Small intestines
+T15_673	Colon	Composite_Score	0	Small intestines
+T2_674	Colon	Inflammation	0	NA
+T2_674	Colon	Extend_of_inflammation	0	NA
+T2_674	Colon	Goblet_cell_metaplasia	0	NA
+T2_674	Colon	Enterocyte_damage	0	NA
+T2_674	Colon	Crypt_regeneration	0	NA
+T2_674	Colon	Percent_tissue_involvement	0	NA
+T2_674	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T2_674	Colon	Composite_Score	0	NA
+T3_674	Colon	Inflammation	0	Steatitis
+T3_674	Colon	Extend_of_inflammation	0	Steatitis
+T3_674	Colon	Goblet_cell_metaplasia	0	Steatitis
+T3_674	Colon	Enterocyte_damage	0	Steatitis
+T3_674	Colon	Crypt_regeneration	0	Steatitis
+T3_674	Colon	Percent_tissue_involvement	0	Steatitis
+T3_674	Colon	Crypts_with_loss_of_goblets_cells	0	Steatitis
+T3_674	Colon	Composite_Score	0	Steatitis
+T0_675	Colon	Inflammation	0	NA
+T0_675	Colon	Extend_of_inflammation	0	NA
+T0_675	Colon	Goblet_cell_metaplasia	0	NA
+T0_675	Colon	Enterocyte_damage	0	NA
+T0_675	Colon	Crypt_regeneration	0	NA
+T0_675	Colon	Percent_tissue_involvement	0	NA
+T0_675	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T0_675	Colon	Composite_Score	0	NA
+T2_675	Colon	Inflammation	0	NA
+T2_675	Colon	Extend_of_inflammation	0	NA
+T2_675	Colon	Goblet_cell_metaplasia	0	NA
+T2_675	Colon	Enterocyte_damage	0	NA
+T2_675	Colon	Crypt_regeneration	0	NA
+T2_675	Colon	Percent_tissue_involvement	0	NA
+T2_675	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T2_675	Colon	Composite_Score	0	NA
+T3_675	Colon	Inflammation	0	NA
+T3_675	Colon	Extend_of_inflammation	0	NA
+T3_675	Colon	Goblet_cell_metaplasia	0	NA
+T3_675	Colon	Enterocyte_damage	0	NA
+T3_675	Colon	Crypt_regeneration	0	NA
+T3_675	Colon	Percent_tissue_involvement	0	NA
+T3_675	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T3_675	Colon	Composite_Score	0	NA
+T10_677	Colon	Inflammation	0	NA
+T10_677	Colon	Extend_of_inflammation	0	NA
+T10_677	Colon	Goblet_cell_metaplasia	0	NA
+T10_677	Colon	Enterocyte_damage	0	NA
+T10_677	Colon	Crypt_regeneration	0	NA
+T10_677	Colon	Percent_tissue_involvement	0	NA
+T10_677	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T10_677	Colon	Composite_Score	0	NA
+T11_677	Colon	Inflammation	0	NA
+T11_677	Colon	Extend_of_inflammation	0	NA
+T11_677	Colon	Goblet_cell_metaplasia	0	NA
+T11_677	Colon	Enterocyte_damage	0	NA
+T11_677	Colon	Crypt_regeneration	0	NA
+T11_677	Colon	Percent_tissue_involvement	0	NA
+T11_677	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T11_677	Colon	Composite_Score	0	NA
+T13_677	Colon	Inflammation	0	NA
+T13_677	Colon	Extend_of_inflammation	0	NA
+T13_677	Colon	Goblet_cell_metaplasia	0	NA
+T13_677	Colon	Enterocyte_damage	0	NA
+T13_677	Colon	Crypt_regeneration	0	NA
+T13_677	Colon	Percent_tissue_involvement	0	NA
+T13_677	Colon	Crypts_with_loss_of_goblets_cells	0	NA
+T13_677	Colon	Composite_Score	0	NA
+T6_669	Brain	Axonal_degeneration	0	Small aggregates of angular neurons (artifact)
+T6_669	Brain	Demyelination	0	Small aggregates of angular neurons (artifact)
+T6_669	Brain	Inflammatory_infiltrate	0	Small aggregates of angular neurons (artifact)
+T6_669	Brain	Inflammatory_type	0	Small aggregates of angular neurons (artifact)
+T6_669	Brain	Inflammatory_distribution	0	Small aggregates of angular neurons (artifact)
+T6_669	Brain	Necrosis	0	Small aggregates of angular neurons (artifact)
+T6_669	Brain	Neuronal_degeneration	0	Small aggregates of angular neurons (artifact)
+T6_669	Brain	Neuroparenchyma_degeneration	1	Small aggregates of angular neurons (artifact)
+T6_669	Brain	Composite_Score	1	Small aggregates of angular neurons (artifact)
+T0_670	Brain	Axonal_degeneration	0	NA
+T0_670	Brain	Demyelination	0	NA
+T0_670	Brain	Inflammatory_infiltrate	0	NA
+T0_670	Brain	Inflammatory_type	0	NA
+T0_670	Brain	Inflammatory_distribution	0	NA
+T0_670	Brain	Necrosis	0	NA
+T0_670	Brain	Neuronal_degeneration	0	NA
+T0_670	Brain	Neuroparenchyma_degeneration	1	NA
+T0_670	Brain	Composite_Score	1	NA
+T1_670	Brain	Axonal_degeneration	0	NA
+T1_670	Brain	Demyelination	0	NA
+T1_670	Brain	Inflammatory_infiltrate	0	NA
+T1_670	Brain	Inflammatory_type	0	NA
+T1_670	Brain	Inflammatory_distribution	0	NA
+T1_670	Brain	Necrosis	0	NA
+T1_670	Brain	Neuronal_degeneration	0	NA
+T1_670	Brain	Neuroparenchyma_degeneration	1	NA
+T1_670	Brain	Composite_Score	1	NA
+T2_670	Brain	Axonal_degeneration	0	NA
+T2_670	Brain	Demyelination	0	NA
+T2_670	Brain	Inflammatory_infiltrate	0	NA
+T2_670	Brain	Inflammatory_type	0	NA
+T2_670	Brain	Inflammatory_distribution	0	NA
+T2_670	Brain	Necrosis	0	NA
+T2_670	Brain	Neuronal_degeneration	0	NA
+T2_670	Brain	Neuroparenchyma_degeneration	1	NA
+T2_670	Brain	Composite_Score	1	NA
+T3_670	Brain	Axonal_degeneration	0	NA
+T3_670	Brain	Demyelination	0	NA
+T3_670	Brain	Inflammatory_infiltrate	0	NA
+T3_670	Brain	Inflammatory_type	0	NA
+T3_670	Brain	Inflammatory_distribution	0	NA
+T3_670	Brain	Necrosis	0	NA
+T3_670	Brain	Neuronal_degeneration	0	NA
+T3_670	Brain	Neuroparenchyma_degeneration	1	NA
+T3_670	Brain	Composite_Score	1	NA
+T4_670	Brain	Axonal_degeneration	0	Minimal edema
+T4_670	Brain	Demyelination	0	Minimal edema
+T4_670	Brain	Inflammatory_infiltrate	0	Minimal edema
+T4_670	Brain	Inflammatory_type	0	Minimal edema
+T4_670	Brain	Inflammatory_distribution	0	Minimal edema
+T4_670	Brain	Necrosis	0	Minimal edema
+T4_670	Brain	Neuronal_degeneration	0	Minimal edema
+T4_670	Brain	Neuroparenchyma_degeneration	1	Minimal edema
+T4_670	Brain	Composite_Score	1	Minimal edema
+T5_671	Brain	Axonal_degeneration	0	NA
+T5_671	Brain	Demyelination	0	NA
+T5_671	Brain	Inflammatory_infiltrate	0	NA
+T5_671	Brain	Inflammatory_type	0	NA
+T5_671	Brain	Inflammatory_distribution	0	NA
+T5_671	Brain	Necrosis	0	NA
+T5_671	Brain	Neuronal_degeneration	0	NA
+T5_671	Brain	Neuroparenchyma_degeneration	1	NA
+T5_671	Brain	Composite_Score	1	NA
+T6_671	Brain	Axonal_degeneration	0	NA
+T6_671	Brain	Demyelination	0	NA
+T6_671	Brain	Inflammatory_infiltrate	0	NA
+T6_671	Brain	Inflammatory_type	0	NA
+T6_671	Brain	Inflammatory_distribution	0	NA
+T6_671	Brain	Necrosis	0	NA
+T6_671	Brain	Neuronal_degeneration	0	NA
+T6_671	Brain	Neuroparenchyma_degeneration	1	NA
+T6_671	Brain	Composite_Score	1	NA
+T7_671	Brain	Axonal_degeneration	0	NA
+T7_671	Brain	Demyelination	0	NA
+T7_671	Brain	Inflammatory_infiltrate	0	NA
+T7_671	Brain	Inflammatory_type	0	NA
+T7_671	Brain	Inflammatory_distribution	0	NA
+T7_671	Brain	Necrosis	0	NA
+T7_671	Brain	Neuronal_degeneration	0	NA
+T7_671	Brain	Neuroparenchyma_degeneration	2	NA
+T7_671	Brain	Composite_Score	2	NA
+T8_671	Brain	Axonal_degeneration	0	NA
+T8_671	Brain	Demyelination	0	NA
+T8_671	Brain	Inflammatory_infiltrate	0	NA
+T8_671	Brain	Inflammatory_type	0	NA
+T8_671	Brain	Inflammatory_distribution	0	NA
+T8_671	Brain	Necrosis	0	NA
+T8_671	Brain	Neuronal_degeneration	0	NA
+T8_671	Brain	Neuroparenchyma_degeneration	1	NA
+T8_671	Brain	Composite_Score	1	NA
+T10_672	Brain	Axonal_degeneration	0	NA
+T10_672	Brain	Demyelination	0	NA
+T10_672	Brain	Inflammatory_infiltrate	0	NA
+T10_672	Brain	Inflammatory_type	0	NA
+T10_672	Brain	Inflammatory_distribution	0	NA
+T10_672	Brain	Necrosis	0	NA
+T10_672	Brain	Neuronal_degeneration	0	NA
+T10_672	Brain	Neuroparenchyma_degeneration	1	NA
+T10_672	Brain	Composite_Score	1	NA
+T11_672	Brain	Axonal_degeneration	0	NA
+T11_672	Brain	Demyelination	0	NA
+T11_672	Brain	Inflammatory_infiltrate	0	NA
+T11_672	Brain	Inflammatory_type	0	NA
+T11_672	Brain	Inflammatory_distribution	0	NA
+T11_672	Brain	Necrosis	0	NA
+T11_672	Brain	Neuronal_degeneration	0	NA
+T11_672	Brain	Neuroparenchyma_degeneration	1	NA
+T11_672	Brain	Composite_Score	1	NA
+T12_672	Brain	Axonal_degeneration	0	NA
+T12_672	Brain	Demyelination	0	NA
+T12_672	Brain	Inflammatory_infiltrate	0	NA
+T12_672	Brain	Inflammatory_type	0	NA
+T12_672	Brain	Inflammatory_distribution	0	NA
+T12_672	Brain	Necrosis	0	NA
+T12_672	Brain	Neuronal_degeneration	0	NA
+T12_672	Brain	Neuroparenchyma_degeneration	2	NA
+T12_672	Brain	Composite_Score	2	NA
+T13_673	Brain	Axonal_degeneration	0	Subjective hydrocephaly
+T13_673	Brain	Demyelination	0	Subjective hydrocephaly
+T13_673	Brain	Inflammatory_infiltrate	0	Subjective hydrocephaly
+T13_673	Brain	Inflammatory_type	0	Subjective hydrocephaly
+T13_673	Brain	Inflammatory_distribution	0	Subjective hydrocephaly
+T13_673	Brain	Necrosis	0	Subjective hydrocephaly
+T13_673	Brain	Neuronal_degeneration	0	Subjective hydrocephaly
+T13_673	Brain	Neuroparenchyma_degeneration	1	Subjective hydrocephaly
+T13_673	Brain	Composite_Score	1	Subjective hydrocephaly
+T14_673	Brain	Axonal_degeneration	0	NA
+T14_673	Brain	Demyelination	0	NA
+T14_673	Brain	Inflammatory_infiltrate	0	NA
+T14_673	Brain	Inflammatory_type	0	NA
+T14_673	Brain	Inflammatory_distribution	0	NA
+T14_673	Brain	Necrosis	0	NA
+T14_673	Brain	Neuronal_degeneration	0	NA
+T14_673	Brain	Neuroparenchyma_degeneration	1	NA
+T14_673	Brain	Composite_Score	1	NA
+T15_673	Brain	Axonal_degeneration	0	NA
+T15_673	Brain	Demyelination	0	NA
+T15_673	Brain	Inflammatory_infiltrate	0	NA
+T15_673	Brain	Inflammatory_type	0	NA
+T15_673	Brain	Inflammatory_distribution	0	NA
+T15_673	Brain	Necrosis	0	NA
+T15_673	Brain	Neuronal_degeneration	0	NA
+T15_673	Brain	Neuroparenchyma_degeneration	1	NA
+T15_673	Brain	Composite_Score	1	NA
+T2_674	Brain	Axonal_degeneration	0	NA
+T2_674	Brain	Demyelination	0	NA
+T2_674	Brain	Inflammatory_infiltrate	0	NA
+T2_674	Brain	Inflammatory_type	0	NA
+T2_674	Brain	Inflammatory_distribution	0	NA
+T2_674	Brain	Necrosis	0	NA
+T2_674	Brain	Neuronal_degeneration	0	NA
+T2_674	Brain	Neuroparenchyma_degeneration	1	NA
+T2_674	Brain	Composite_Score	1	NA
+T3_674	Brain	Axonal_degeneration	0	Small foci of inflammation in the meninges
+T3_674	Brain	Demyelination	0	Small foci of inflammation in the meninges
+T3_674	Brain	Inflammatory_infiltrate	1	Small foci of inflammation in the meninges
+T3_674	Brain	Inflammatory_type	1	Small foci of inflammation in the meninges
+T3_674	Brain	Inflammatory_distribution	1	Small foci of inflammation in the meninges
+T3_674	Brain	Necrosis	0	Small foci of inflammation in the meninges
+T3_674	Brain	Neuronal_degeneration	0	Small foci of inflammation in the meninges
+T3_674	Brain	Neuroparenchyma_degeneration	1	Small foci of inflammation in the meninges
+T3_674	Brain	Composite_Score	4	Small foci of inflammation in the meninges
+T0_675	Brain	Axonal_degeneration	0	One cell with chromatolysis (degeneration)
+T0_675	Brain	Demyelination	0	One cell with chromatolysis (degeneration)
+T0_675	Brain	Inflammatory_infiltrate	0	One cell with chromatolysis (degeneration)
+T0_675	Brain	Inflammatory_type	0	One cell with chromatolysis (degeneration)
+T0_675	Brain	Inflammatory_distribution	0	One cell with chromatolysis (degeneration)
+T0_675	Brain	Necrosis	0	One cell with chromatolysis (degeneration)
+T0_675	Brain	Neuronal_degeneration	0	One cell with chromatolysis (degeneration)
+T0_675	Brain	Neuroparenchyma_degeneration	1	One cell with chromatolysis (degeneration)
+T0_675	Brain	Composite_Score	1	One cell with chromatolysis (degeneration)
+T2_675	Brain	Axonal_degeneration	0	NA
+T2_675	Brain	Demyelination	0	NA
+T2_675	Brain	Inflammatory_infiltrate	0	NA
+T2_675	Brain	Inflammatory_type	0	NA
+T2_675	Brain	Inflammatory_distribution	0	NA
+T2_675	Brain	Necrosis	0	NA
+T2_675	Brain	Neuronal_degeneration	0	NA
+T2_675	Brain	Neuroparenchyma_degeneration	1	NA
+T2_675	Brain	Composite_Score	1	NA
+T3_675	Brain	Axonal_degeneration	0	NA
+T3_675	Brain	Demyelination	0	NA
+T3_675	Brain	Inflammatory_infiltrate	0	NA
+T3_675	Brain	Inflammatory_type	0	NA
+T3_675	Brain	Inflammatory_distribution	0	NA
+T3_675	Brain	Necrosis	0	NA
+T3_675	Brain	Neuronal_degeneration	0	NA
+T3_675	Brain	Neuroparenchyma_degeneration	0	NA
+T3_675	Brain	Composite_Score	0	NA
+T10_677	Brain	Axonal_degeneration	0	NA
+T10_677	Brain	Demyelination	0	NA
+T10_677	Brain	Inflammatory_infiltrate	0	NA
+T10_677	Brain	Inflammatory_type	0	NA
+T10_677	Brain	Inflammatory_distribution	0	NA
+T10_677	Brain	Necrosis	0	NA
+T10_677	Brain	Neuronal_degeneration	0	NA
+T10_677	Brain	Neuroparenchyma_degeneration	0	NA
+T10_677	Brain	Composite_Score	0	NA
+T11_677	Brain	Axonal_degeneration	0	NA
+T11_677	Brain	Demyelination	0	NA
+T11_677	Brain	Inflammatory_infiltrate	0	NA
+T11_677	Brain	Inflammatory_type	0	NA
+T11_677	Brain	Inflammatory_distribution	0	NA
+T11_677	Brain	Necrosis	0	NA
+T11_677	Brain	Neuronal_degeneration	0	NA
+T11_677	Brain	Neuroparenchyma_degeneration	1	NA
+T11_677	Brain	Composite_Score	1	NA
+T13_677	Brain	Axonal_degeneration	0	NA
+T13_677	Brain	Demyelination	0	NA
+T13_677	Brain	Inflammatory_infiltrate	0	NA
+T13_677	Brain	Inflammatory_type	0	NA
+T13_677	Brain	Inflammatory_distribution	0	NA
+T13_677	Brain	Necrosis	0	NA
+T13_677	Brain	Neuronal_degeneration	0	NA
+T13_677	Brain	Neuroparenchyma_degeneration	2	NA
+T13_677	Brain	Composite_Score	2	NA
+T6_669	Heart	Degeneration	0	All samples have some degree anisokaryosis
+T6_669	Heart	Myocardial_necrosis	0	All samples have some degree anisokaryosis
+T6_669	Heart	Inflammatory_infiltrate	0	All samples have some degree anisokaryosis
+T6_669	Heart	Inflammatory_distribution	0	All samples have some degree anisokaryosis
+T6_669	Heart	Extracellular_deposition	0	All samples have some degree anisokaryosis
+T6_669	Heart	Interstitial_fibrosis	0	All samples have some degree anisokaryosis
+T6_669	Heart	Composite_Score	0	All samples have some degree anisokaryosis
+T0_670	Heart	Degeneration	0	NA
+T0_670	Heart	Myocardial_necrosis	0	NA
+T0_670	Heart	Inflammatory_infiltrate	0	NA
+T0_670	Heart	Inflammatory_distribution	0	NA
+T0_670	Heart	Extracellular_deposition	0	NA
+T0_670	Heart	Interstitial_fibrosis	0	NA
+T0_670	Heart	Composite_Score	0	NA
+T1_670	Heart	Degeneration	0	NA
+T1_670	Heart	Myocardial_necrosis	0	NA
+T1_670	Heart	Inflammatory_infiltrate	0	NA
+T1_670	Heart	Inflammatory_distribution	0	NA
+T1_670	Heart	Extracellular_deposition	0	NA
+T1_670	Heart	Interstitial_fibrosis	0	NA
+T1_670	Heart	Composite_Score	0	NA
+T2_670	Heart	Degeneration	0	NA
+T2_670	Heart	Myocardial_necrosis	0	NA
+T2_670	Heart	Inflammatory_infiltrate	0	NA
+T2_670	Heart	Inflammatory_distribution	0	NA
+T2_670	Heart	Extracellular_deposition	0	NA
+T2_670	Heart	Interstitial_fibrosis	0	NA
+T2_670	Heart	Composite_Score	0	NA
+T3_670	Heart	Degeneration	0	NA
+T3_670	Heart	Myocardial_necrosis	0	NA
+T3_670	Heart	Inflammatory_infiltrate	0	NA
+T3_670	Heart	Inflammatory_distribution	0	NA
+T3_670	Heart	Extracellular_deposition	0	NA
+T3_670	Heart	Interstitial_fibrosis	0	NA
+T3_670	Heart	Composite_Score	0	NA
+T4_670	Heart	Degeneration	0	NA
+T4_670	Heart	Myocardial_necrosis	0	NA
+T4_670	Heart	Inflammatory_infiltrate	0	NA
+T4_670	Heart	Inflammatory_distribution	0	NA
+T4_670	Heart	Extracellular_deposition	0	NA
+T4_670	Heart	Interstitial_fibrosis	0	NA
+T4_670	Heart	Composite_Score	0	NA
+T5_671	Heart	Degeneration	1	Focal regions of mineralzation
+T5_671	Heart	Myocardial_necrosis	1	Focal regions of mineralzation
+T5_671	Heart	Inflammatory_infiltrate	0	Focal regions of mineralzation
+T5_671	Heart	Inflammatory_distribution	0	Focal regions of mineralzation
+T5_671	Heart	Extracellular_deposition	1	Focal regions of mineralzation
+T5_671	Heart	Interstitial_fibrosis	0	Focal regions of mineralzation
+T5_671	Heart	Composite_Score	3	Focal regions of mineralzation
+T6_671	Heart	Degeneration	0	NA
+T6_671	Heart	Myocardial_necrosis	0	NA
+T6_671	Heart	Inflammatory_infiltrate	0	NA
+T6_671	Heart	Inflammatory_distribution	0	NA
+T6_671	Heart	Extracellular_deposition	0	NA
+T6_671	Heart	Interstitial_fibrosis	0	NA
+T6_671	Heart	Composite_Score	0	NA
+T7_671	Heart	Degeneration	0	NA
+T7_671	Heart	Myocardial_necrosis	0	NA
+T7_671	Heart	Inflammatory_infiltrate	0	NA
+T7_671	Heart	Inflammatory_distribution	0	NA
+T7_671	Heart	Extracellular_deposition	0	NA
+T7_671	Heart	Interstitial_fibrosis	0	NA
+T7_671	Heart	Composite_Score	0	NA
+T8_671	Heart	Degeneration	0	NA
+T8_671	Heart	Myocardial_necrosis	0	NA
+T8_671	Heart	Inflammatory_infiltrate	0	NA
+T8_671	Heart	Inflammatory_distribution	0	NA
+T8_671	Heart	Extracellular_deposition	0	NA
+T8_671	Heart	Interstitial_fibrosis	0	NA
+T8_671	Heart	Composite_Score	0	NA
+T10_672	Heart	Degeneration	1	NA
+T10_672	Heart	Myocardial_necrosis	0	NA
+T10_672	Heart	Inflammatory_infiltrate	0	NA
+T10_672	Heart	Inflammatory_distribution	0	NA
+T10_672	Heart	Extracellular_deposition	1	NA
+T10_672	Heart	Interstitial_fibrosis	0	NA
+T10_672	Heart	Composite_Score	2	NA
+T11_672	Heart	Degeneration	0	NA
+T11_672	Heart	Myocardial_necrosis	0	NA
+T11_672	Heart	Inflammatory_infiltrate	0	NA
+T11_672	Heart	Inflammatory_distribution	0	NA
+T11_672	Heart	Extracellular_deposition	0	NA
+T11_672	Heart	Interstitial_fibrosis	0	NA
+T11_672	Heart	Composite_Score	0	NA
+T12_672	Heart	Degeneration	0	NA
+T12_672	Heart	Myocardial_necrosis	0	NA
+T12_672	Heart	Inflammatory_infiltrate	0	NA
+T12_672	Heart	Inflammatory_distribution	0	NA
+T12_672	Heart	Extracellular_deposition	0	NA
+T12_672	Heart	Interstitial_fibrosis	0	NA
+T12_672	Heart	Composite_Score	0	NA
+T13_673	Heart	Degeneration	0	NA
+T13_673	Heart	Myocardial_necrosis	0	NA
+T13_673	Heart	Inflammatory_infiltrate	0	NA
+T13_673	Heart	Inflammatory_distribution	0	NA
+T13_673	Heart	Extracellular_deposition	0	NA
+T13_673	Heart	Interstitial_fibrosis	0	NA
+T13_673	Heart	Composite_Score	0	NA
+T14_673	Heart	Degeneration	0	NA
+T14_673	Heart	Myocardial_necrosis	0	NA
+T14_673	Heart	Inflammatory_infiltrate	0	NA
+T14_673	Heart	Inflammatory_distribution	0	NA
+T14_673	Heart	Extracellular_deposition	0	NA
+T14_673	Heart	Interstitial_fibrosis	0	NA
+T14_673	Heart	Composite_Score	0	NA
+T15_673	Heart	Degeneration	1	NA
+T15_673	Heart	Myocardial_necrosis	0	NA
+T15_673	Heart	Inflammatory_infiltrate	0	NA
+T15_673	Heart	Inflammatory_distribution	0	NA
+T15_673	Heart	Extracellular_deposition	0	NA
+T15_673	Heart	Interstitial_fibrosis	0	NA
+T15_673	Heart	Composite_Score	1	NA
+T2_674	Heart	Degeneration	0	NA
+T2_674	Heart	Myocardial_necrosis	0	NA
+T2_674	Heart	Inflammatory_infiltrate	0	NA
+T2_674	Heart	Inflammatory_distribution	0	NA
+T2_674	Heart	Extracellular_deposition	0	NA
+T2_674	Heart	Interstitial_fibrosis	0	NA
+T2_674	Heart	Composite_Score	0	NA
+T3_674	Heart	Degeneration	0	NA
+T3_674	Heart	Myocardial_necrosis	0	NA
+T3_674	Heart	Inflammatory_infiltrate	0	NA
+T3_674	Heart	Inflammatory_distribution	0	NA
+T3_674	Heart	Extracellular_deposition	0	NA
+T3_674	Heart	Interstitial_fibrosis	0	NA
+T3_674	Heart	Composite_Score	0	NA
+T0_675	Heart	Degeneration	1	NA
+T0_675	Heart	Myocardial_necrosis	0	NA
+T0_675	Heart	Inflammatory_infiltrate	0	NA
+T0_675	Heart	Inflammatory_distribution	0	NA
+T0_675	Heart	Extracellular_deposition	0	NA
+T0_675	Heart	Interstitial_fibrosis	0	NA
+T0_675	Heart	Composite_Score	1	NA
+T2_675	Heart	Degeneration	1	Endocardial necrosis and inflammation
+T2_675	Heart	Myocardial_necrosis	1	Endocardial necrosis and inflammation
+T2_675	Heart	Inflammatory_infiltrate	1	Endocardial necrosis and inflammation
+T2_675	Heart	Inflammatory_distribution	1	Endocardial necrosis and inflammation
+T2_675	Heart	Extracellular_deposition	1	Endocardial necrosis and inflammation
+T2_675	Heart	Interstitial_fibrosis	0	Endocardial necrosis and inflammation
+T2_675	Heart	Composite_Score	5	Endocardial necrosis and inflammation
+T3_675	Heart	Degeneration	0	NA
+T3_675	Heart	Myocardial_necrosis	0	NA
+T3_675	Heart	Inflammatory_infiltrate	0	NA
+T3_675	Heart	Inflammatory_distribution	0	NA
+T3_675	Heart	Extracellular_deposition	0	NA
+T3_675	Heart	Interstitial_fibrosis	0	NA
+T3_675	Heart	Composite_Score	0	NA
+T10_677	Heart	Degeneration	0	NA
+T10_677	Heart	Myocardial_necrosis	0	NA
+T10_677	Heart	Inflammatory_infiltrate	0	NA
+T10_677	Heart	Inflammatory_distribution	0	NA
+T10_677	Heart	Extracellular_deposition	0	NA
+T10_677	Heart	Interstitial_fibrosis	0	NA
+T10_677	Heart	Composite_Score	0	NA
+T11_677	Heart	Degeneration	1	NA
+T11_677	Heart	Myocardial_necrosis	0	NA
+T11_677	Heart	Inflammatory_infiltrate	0	NA
+T11_677	Heart	Inflammatory_distribution	0	NA
+T11_677	Heart	Extracellular_deposition	1	NA
+T11_677	Heart	Interstitial_fibrosis	0	NA
+T11_677	Heart	Composite_Score	2	NA
+T13_677	Heart	Degeneration	0	NA
+T13_677	Heart	Myocardial_necrosis	0	NA
+T13_677	Heart	Inflammatory_infiltrate	0	NA
+T13_677	Heart	Inflammatory_distribution	0	NA
+T13_677	Heart	Extracellular_deposition	0	NA
+T13_677	Heart	Interstitial_fibrosis	0	NA
+T13_677	Heart	Composite_Score	0	NA
+T6_669	Lung	Alveolar_hemorrhage	0	NA
+T6_669	Lung	BALT_hyperplasia	0	NA
+T6_669	Lung	Bronchial_luminal_exudate	0	NA
+T6_669	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T6_669	Lung	Alveolar_mediastinal_EMH	0	NA
+T6_669	Lung	Inflammation	0	NA
+T6_669	Lung	Amyloid_like_depostiion	0	NA
+T6_669	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T6_669	Lung	Composite_Score	0	NA
+T0_670	Lung	Alveolar_hemorrhage	0	Minimal hyperinflation
+T0_670	Lung	BALT_hyperplasia	0	Minimal hyperinflation
+T0_670	Lung	Bronchial_luminal_exudate	0	Minimal hyperinflation
+T0_670	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	Minimal hyperinflation
+T0_670	Lung	Alveolar_mediastinal_EMH	0	Minimal hyperinflation
+T0_670	Lung	Inflammation	0	Minimal hyperinflation
+T0_670	Lung	Amyloid_like_depostiion	0	Minimal hyperinflation
+T0_670	Lung	Type_2_pneumocyte_hyperplasia	0	Minimal hyperinflation
+T0_670	Lung	Composite_Score	0	Minimal hyperinflation
+T1_670	Lung	Alveolar_hemorrhage	0	One small nodule of inflammation
+T1_670	Lung	BALT_hyperplasia	0	One small nodule of inflammation
+T1_670	Lung	Bronchial_luminal_exudate	0	One small nodule of inflammation
+T1_670	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	One small nodule of inflammation
+T1_670	Lung	Alveolar_mediastinal_EMH	0	One small nodule of inflammation
+T1_670	Lung	Inflammation	1	One small nodule of inflammation
+T1_670	Lung	Amyloid_like_depostiion	0	One small nodule of inflammation
+T1_670	Lung	Type_2_pneumocyte_hyperplasia	0	One small nodule of inflammation
+T1_670	Lung	Composite_Score	1	One small nodule of inflammation
+T2_670	Lung	Alveolar_hemorrhage	0	Mild hyperinflation
+T2_670	Lung	BALT_hyperplasia	0	Mild hyperinflation
+T2_670	Lung	Bronchial_luminal_exudate	0	Mild hyperinflation
+T2_670	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	Mild hyperinflation
+T2_670	Lung	Alveolar_mediastinal_EMH	1	Mild hyperinflation
+T2_670	Lung	Inflammation	0	Mild hyperinflation
+T2_670	Lung	Amyloid_like_depostiion	0	Mild hyperinflation
+T2_670	Lung	Type_2_pneumocyte_hyperplasia	0	Mild hyperinflation
+T2_670	Lung	Composite_Score	1	Mild hyperinflation
+T3_670	Lung	Alveolar_hemorrhage	1	NA
+T3_670	Lung	BALT_hyperplasia	0	NA
+T3_670	Lung	Bronchial_luminal_exudate	0	NA
+T3_670	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T3_670	Lung	Alveolar_mediastinal_EMH	0	NA
+T3_670	Lung	Inflammation	0	NA
+T3_670	Lung	Amyloid_like_depostiion	0	NA
+T3_670	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T3_670	Lung	Composite_Score	1	NA
+T4_670	Lung	Alveolar_hemorrhage	3	Regionally extensive hemorrhage, regions of fibrin
+T4_670	Lung	BALT_hyperplasia	0	Regionally extensive hemorrhage, regions of fibrin
+T4_670	Lung	Bronchial_luminal_exudate	0	Regionally extensive hemorrhage, regions of fibrin
+T4_670	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	Regionally extensive hemorrhage, regions of fibrin
+T4_670	Lung	Alveolar_mediastinal_EMH	0	Regionally extensive hemorrhage, regions of fibrin
+T4_670	Lung	Inflammation	0	Regionally extensive hemorrhage, regions of fibrin
+T4_670	Lung	Amyloid_like_depostiion	0	Regionally extensive hemorrhage, regions of fibrin
+T4_670	Lung	Type_2_pneumocyte_hyperplasia	0	Regionally extensive hemorrhage, regions of fibrin
+T4_670	Lung	Composite_Score	3	Regionally extensive hemorrhage, regions of fibrin
+T5_671	Lung	Alveolar_hemorrhage	3	Regionally extensive hemorrhage
+T5_671	Lung	BALT_hyperplasia	0	Regionally extensive hemorrhage
+T5_671	Lung	Bronchial_luminal_exudate	0	Regionally extensive hemorrhage
+T5_671	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	Regionally extensive hemorrhage
+T5_671	Lung	Alveolar_mediastinal_EMH	0	Regionally extensive hemorrhage
+T5_671	Lung	Inflammation	0	Regionally extensive hemorrhage
+T5_671	Lung	Amyloid_like_depostiion	0	Regionally extensive hemorrhage
+T5_671	Lung	Type_2_pneumocyte_hyperplasia	0	Regionally extensive hemorrhage
+T5_671	Lung	Composite_Score	3	Regionally extensive hemorrhage
+T6_671	Lung	Alveolar_hemorrhage	3	Regionally extensive hemorrhage, foci of fibrin
+T6_671	Lung	BALT_hyperplasia	0	Regionally extensive hemorrhage, foci of fibrin
+T6_671	Lung	Bronchial_luminal_exudate	0	Regionally extensive hemorrhage, foci of fibrin
+T6_671	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	Regionally extensive hemorrhage, foci of fibrin
+T6_671	Lung	Alveolar_mediastinal_EMH	0	Regionally extensive hemorrhage, foci of fibrin
+T6_671	Lung	Inflammation	0	Regionally extensive hemorrhage, foci of fibrin
+T6_671	Lung	Amyloid_like_depostiion	0	Regionally extensive hemorrhage, foci of fibrin
+T6_671	Lung	Type_2_pneumocyte_hyperplasia	0	Regionally extensive hemorrhage, foci of fibrin
+T6_671	Lung	Composite_Score	3	Regionally extensive hemorrhage, foci of fibrin
+T7_671	Lung	Alveolar_hemorrhage	3	Regionally extensive hemorrhage, foci of fibrin
+T7_671	Lung	BALT_hyperplasia	0	Regionally extensive hemorrhage, foci of fibrin
+T7_671	Lung	Bronchial_luminal_exudate	0	Regionally extensive hemorrhage, foci of fibrin
+T7_671	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	Regionally extensive hemorrhage, foci of fibrin
+T7_671	Lung	Alveolar_mediastinal_EMH	0	Regionally extensive hemorrhage, foci of fibrin
+T7_671	Lung	Inflammation	0	Regionally extensive hemorrhage, foci of fibrin
+T7_671	Lung	Amyloid_like_depostiion	0	Regionally extensive hemorrhage, foci of fibrin
+T7_671	Lung	Type_2_pneumocyte_hyperplasia	0	Regionally extensive hemorrhage, foci of fibrin
+T7_671	Lung	Composite_Score	3	Regionally extensive hemorrhage, foci of fibrin
+T8_671	Lung	Alveolar_hemorrhage	3	NA
+T8_671	Lung	BALT_hyperplasia	0	NA
+T8_671	Lung	Bronchial_luminal_exudate	0	NA
+T8_671	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T8_671	Lung	Alveolar_mediastinal_EMH	0	NA
+T8_671	Lung	Inflammation	0	NA
+T8_671	Lung	Amyloid_like_depostiion	0	NA
+T8_671	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T8_671	Lung	Composite_Score	3	NA
+T10_672	Lung	Alveolar_hemorrhage	0	NA
+T10_672	Lung	BALT_hyperplasia	0	NA
+T10_672	Lung	Bronchial_luminal_exudate	0	NA
+T10_672	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T10_672	Lung	Alveolar_mediastinal_EMH	0	NA
+T10_672	Lung	Inflammation	0	NA
+T10_672	Lung	Amyloid_like_depostiion	0	NA
+T10_672	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T10_672	Lung	Composite_Score	0	NA
+T11_672	Lung	Alveolar_hemorrhage	0	NA
+T11_672	Lung	BALT_hyperplasia	1	NA
+T11_672	Lung	Bronchial_luminal_exudate	0	NA
+T11_672	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T11_672	Lung	Alveolar_mediastinal_EMH	0	NA
+T11_672	Lung	Inflammation	1	NA
+T11_672	Lung	Amyloid_like_depostiion	0	NA
+T11_672	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T11_672	Lung	Composite_Score	2	NA
+T12_672	Lung	Alveolar_hemorrhage	0	NA
+T12_672	Lung	BALT_hyperplasia	0	NA
+T12_672	Lung	Bronchial_luminal_exudate	0	NA
+T12_672	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T12_672	Lung	Alveolar_mediastinal_EMH	0	NA
+T12_672	Lung	Inflammation	0	NA
+T12_672	Lung	Amyloid_like_depostiion	0	NA
+T12_672	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T12_672	Lung	Composite_Score	0	NA
+T13_673	Lung	Alveolar_hemorrhage	0	NA
+T13_673	Lung	BALT_hyperplasia	0	NA
+T13_673	Lung	Bronchial_luminal_exudate	0	NA
+T13_673	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T13_673	Lung	Alveolar_mediastinal_EMH	0	NA
+T13_673	Lung	Inflammation	1	NA
+T13_673	Lung	Amyloid_like_depostiion	0	NA
+T13_673	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T13_673	Lung	Composite_Score	1	NA
+T14_673	Lung	Alveolar_hemorrhage	0	NA
+T14_673	Lung	BALT_hyperplasia	0	NA
+T14_673	Lung	Bronchial_luminal_exudate	0	NA
+T14_673	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T14_673	Lung	Alveolar_mediastinal_EMH	0	NA
+T14_673	Lung	Inflammation	0	NA
+T14_673	Lung	Amyloid_like_depostiion	0	NA
+T14_673	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T14_673	Lung	Composite_Score	0	NA
+T15_673	Lung	Alveolar_hemorrhage	1	NA
+T15_673	Lung	BALT_hyperplasia	0	NA
+T15_673	Lung	Bronchial_luminal_exudate	0	NA
+T15_673	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T15_673	Lung	Alveolar_mediastinal_EMH	0	NA
+T15_673	Lung	Inflammation	0	NA
+T15_673	Lung	Amyloid_like_depostiion	0	NA
+T15_673	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T15_673	Lung	Composite_Score	1	NA
+T2_674	Lung	Alveolar_hemorrhage	0	NA
+T2_674	Lung	BALT_hyperplasia	1	NA
+T2_674	Lung	Bronchial_luminal_exudate	0	NA
+T2_674	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T2_674	Lung	Alveolar_mediastinal_EMH	0	NA
+T2_674	Lung	Inflammation	0	NA
+T2_674	Lung	Amyloid_like_depostiion	0	NA
+T2_674	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T2_674	Lung	Composite_Score	1	NA
+T3_674	Lung	Alveolar_hemorrhage	0	NA
+T3_674	Lung	BALT_hyperplasia	2	NA
+T3_674	Lung	Bronchial_luminal_exudate	0	NA
+T3_674	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T3_674	Lung	Alveolar_mediastinal_EMH	0	NA
+T3_674	Lung	Inflammation	0	NA
+T3_674	Lung	Amyloid_like_depostiion	0	NA
+T3_674	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T3_674	Lung	Composite_Score	2	NA
+T0_675	Lung	Alveolar_hemorrhage	0	Crush artifact on one section
+T0_675	Lung	BALT_hyperplasia	0	Crush artifact on one section
+T0_675	Lung	Bronchial_luminal_exudate	0	Crush artifact on one section
+T0_675	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	Crush artifact on one section
+T0_675	Lung	Alveolar_mediastinal_EMH	0	Crush artifact on one section
+T0_675	Lung	Inflammation	0	Crush artifact on one section
+T0_675	Lung	Amyloid_like_depostiion	0	Crush artifact on one section
+T0_675	Lung	Type_2_pneumocyte_hyperplasia	0	Crush artifact on one section
+T0_675	Lung	Composite_Score	0	Crush artifact on one section
+T2_675	Lung	Alveolar_hemorrhage	0	NA
+T2_675	Lung	BALT_hyperplasia	1	NA
+T2_675	Lung	Bronchial_luminal_exudate	0	NA
+T2_675	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T2_675	Lung	Alveolar_mediastinal_EMH	0	NA
+T2_675	Lung	Inflammation	0	NA
+T2_675	Lung	Amyloid_like_depostiion	0	NA
+T2_675	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T2_675	Lung	Composite_Score	1	NA
+T3_675	Lung	Alveolar_hemorrhage	0	NA
+T3_675	Lung	BALT_hyperplasia	2	NA
+T3_675	Lung	Bronchial_luminal_exudate	0	NA
+T3_675	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T3_675	Lung	Alveolar_mediastinal_EMH	0	NA
+T3_675	Lung	Inflammation	0	NA
+T3_675	Lung	Amyloid_like_depostiion	0	NA
+T3_675	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T3_675	Lung	Composite_Score	2	NA
+T10_677	Lung	Alveolar_hemorrhage	0	NA
+T10_677	Lung	BALT_hyperplasia	0	NA
+T10_677	Lung	Bronchial_luminal_exudate	0	NA
+T10_677	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T10_677	Lung	Alveolar_mediastinal_EMH	0	NA
+T10_677	Lung	Inflammation	0	NA
+T10_677	Lung	Amyloid_like_depostiion	0	NA
+T10_677	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T10_677	Lung	Composite_Score	0	NA
+T11_677	Lung	Alveolar_hemorrhage	0	NA
+T11_677	Lung	BALT_hyperplasia	0	NA
+T11_677	Lung	Bronchial_luminal_exudate	0	NA
+T11_677	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T11_677	Lung	Alveolar_mediastinal_EMH	0	NA
+T11_677	Lung	Inflammation	0	NA
+T11_677	Lung	Amyloid_like_depostiion	0	NA
+T11_677	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T11_677	Lung	Composite_Score	0	NA
+T13_677	Lung	Alveolar_hemorrhage	0	NA
+T13_677	Lung	BALT_hyperplasia	0	NA
+T13_677	Lung	Bronchial_luminal_exudate	0	NA
+T13_677	Lung	Bronchial_hyperplasia_goblet_cell_metaplasia	0	NA
+T13_677	Lung	Alveolar_mediastinal_EMH	0	NA
+T13_677	Lung	Inflammation	0	NA
+T13_677	Lung	Amyloid_like_depostiion	0	NA
+T13_677	Lung	Type_2_pneumocyte_hyperplasia	0	NA
+T13_677	Lung	Composite_Score	0	NA
+T6_669	Kidney	Glomerular_prolif	0	NA
+T6_669	Kidney	Tubular_degeneration	0	NA
+T6_669	Kidney	Inflammatory_infiltrate	0	NA
+T6_669	Kidney	Inflammatory_type	0	NA
+T6_669	Kidney	Inflammatory_distribution	0	NA
+T6_669	Kidney	Necrosis	0	NA
+T6_669	Kidney	Interstitial_fibrosis	0	NA
+T6_669	Kidney	Tubular_ectasia	0	NA
+T6_669	Kidney	Composite_Score	0	NA
+T0_670	Kidney	Glomerular_prolif	0	NA
+T0_670	Kidney	Tubular_degeneration	0	NA
+T0_670	Kidney	Inflammatory_infiltrate	0	NA
+T0_670	Kidney	Inflammatory_type	0	NA
+T0_670	Kidney	Inflammatory_distribution	0	NA
+T0_670	Kidney	Necrosis	0	NA
+T0_670	Kidney	Interstitial_fibrosis	0	NA
+T0_670	Kidney	Tubular_ectasia	0	NA
+T0_670	Kidney	Composite_Score	0	NA
+T1_670	Kidney	Glomerular_prolif	0	NA
+T1_670	Kidney	Tubular_degeneration	0	NA
+T1_670	Kidney	Inflammatory_infiltrate	0	NA
+T1_670	Kidney	Inflammatory_type	0	NA
+T1_670	Kidney	Inflammatory_distribution	0	NA
+T1_670	Kidney	Necrosis	0	NA
+T1_670	Kidney	Interstitial_fibrosis	0	NA
+T1_670	Kidney	Tubular_ectasia	0	NA
+T1_670	Kidney	Composite_Score	0	NA
+T2_670	Kidney	Glomerular_prolif	0	NA
+T2_670	Kidney	Tubular_degeneration	0	NA
+T2_670	Kidney	Inflammatory_infiltrate	1	NA
+T2_670	Kidney	Inflammatory_type	1	NA
+T2_670	Kidney	Inflammatory_distribution	1	NA
+T2_670	Kidney	Necrosis	0	NA
+T2_670	Kidney	Interstitial_fibrosis	1	NA
+T2_670	Kidney	Tubular_ectasia	0	NA
+T2_670	Kidney	Composite_Score	4	NA
+T3_670	Kidney	Glomerular_prolif	0	NA
+T3_670	Kidney	Tubular_degeneration	0	NA
+T3_670	Kidney	Inflammatory_infiltrate	0	NA
+T3_670	Kidney	Inflammatory_type	0	NA
+T3_670	Kidney	Inflammatory_distribution	0	NA
+T3_670	Kidney	Necrosis	0	NA
+T3_670	Kidney	Interstitial_fibrosis	0	NA
+T3_670	Kidney	Tubular_ectasia	0	NA
+T3_670	Kidney	Composite_Score	0	NA
+T4_670	Kidney	Glomerular_prolif	0	NA
+T4_670	Kidney	Tubular_degeneration	0	NA
+T4_670	Kidney	Inflammatory_infiltrate	0	NA
+T4_670	Kidney	Inflammatory_type	0	NA
+T4_670	Kidney	Inflammatory_distribution	0	NA
+T4_670	Kidney	Necrosis	0	NA
+T4_670	Kidney	Interstitial_fibrosis	0	NA
+T4_670	Kidney	Tubular_ectasia	0	NA
+T4_670	Kidney	Composite_Score	0	NA
+T5_671	Kidney	Glomerular_prolif	0	NA
+T5_671	Kidney	Tubular_degeneration	0	NA
+T5_671	Kidney	Inflammatory_infiltrate	0	NA
+T5_671	Kidney	Inflammatory_type	0	NA
+T5_671	Kidney	Inflammatory_distribution	0	NA
+T5_671	Kidney	Necrosis	0	NA
+T5_671	Kidney	Interstitial_fibrosis	0	NA
+T5_671	Kidney	Tubular_ectasia	0	NA
+T5_671	Kidney	Composite_Score	0	NA
+T6_671	Kidney	Glomerular_prolif	0	NA
+T6_671	Kidney	Tubular_degeneration	0	NA
+T6_671	Kidney	Inflammatory_infiltrate	0	NA
+T6_671	Kidney	Inflammatory_type	0	NA
+T6_671	Kidney	Inflammatory_distribution	0	NA
+T6_671	Kidney	Necrosis	0	NA
+T6_671	Kidney	Interstitial_fibrosis	0	NA
+T6_671	Kidney	Tubular_ectasia	0	NA
+T6_671	Kidney	Composite_Score	0	NA
+T8_671	Kidney	Glomerular_prolif	0	NA
+T8_671	Kidney	Tubular_degeneration	0	NA
+T8_671	Kidney	Inflammatory_infiltrate	1	NA
+T8_671	Kidney	Inflammatory_type	1	NA
+T8_671	Kidney	Inflammatory_distribution	1	NA
+T8_671	Kidney	Necrosis	0	NA
+T8_671	Kidney	Interstitial_fibrosis	1	NA
+T8_671	Kidney	Tubular_ectasia	0	NA
+T8_671	Kidney	Composite_Score	4	NA
+T10_672	Kidney	Glomerular_prolif	0	NA
+T10_672	Kidney	Tubular_degeneration	0	NA
+T10_672	Kidney	Inflammatory_infiltrate	0	NA
+T10_672	Kidney	Inflammatory_type	0	NA
+T10_672	Kidney	Inflammatory_distribution	0	NA
+T10_672	Kidney	Necrosis	0	NA
+T10_672	Kidney	Interstitial_fibrosis	0	NA
+T10_672	Kidney	Tubular_ectasia	0	NA
+T10_672	Kidney	Composite_Score	0	NA
+T11_672	Kidney	Glomerular_prolif	0	NA
+T11_672	Kidney	Tubular_degeneration	0	NA
+T11_672	Kidney	Inflammatory_infiltrate	0	NA
+T11_672	Kidney	Inflammatory_type	0	NA
+T11_672	Kidney	Inflammatory_distribution	0	NA
+T11_672	Kidney	Necrosis	0	NA
+T11_672	Kidney	Interstitial_fibrosis	0	NA
+T11_672	Kidney	Tubular_ectasia	0	NA
+T11_672	Kidney	Composite_Score	0	NA
+T12_672	Kidney	Glomerular_prolif	0	Mild to moderate hyodrnephrosis
+T12_672	Kidney	Tubular_degeneration	0	Mild to moderate hyodrnephrosis
+T12_672	Kidney	Inflammatory_infiltrate	0	Mild to moderate hyodrnephrosis
+T12_672	Kidney	Inflammatory_type	0	Mild to moderate hyodrnephrosis
+T12_672	Kidney	Inflammatory_distribution	0	Mild to moderate hyodrnephrosis
+T12_672	Kidney	Necrosis	0	Mild to moderate hyodrnephrosis
+T12_672	Kidney	Interstitial_fibrosis	0	Mild to moderate hyodrnephrosis
+T12_672	Kidney	Tubular_ectasia	0	Mild to moderate hyodrnephrosis
+T12_672	Kidney	Composite_Score	0	Mild to moderate hyodrnephrosis
+T13_673	Kidney	Glomerular_prolif	0	NA
+T13_673	Kidney	Tubular_degeneration	0	NA
+T13_673	Kidney	Inflammatory_infiltrate	0	NA
+T13_673	Kidney	Inflammatory_type	0	NA
+T13_673	Kidney	Inflammatory_distribution	0	NA
+T13_673	Kidney	Necrosis	0	NA
+T13_673	Kidney	Interstitial_fibrosis	0	NA
+T13_673	Kidney	Tubular_ectasia	0	NA
+T13_673	Kidney	Composite_Score	0	NA
+T14_673	Kidney	Glomerular_prolif	0	NA
+T14_673	Kidney	Tubular_degeneration	0	NA
+T14_673	Kidney	Inflammatory_infiltrate	0	NA
+T14_673	Kidney	Inflammatory_type	0	NA
+T14_673	Kidney	Inflammatory_distribution	0	NA
+T14_673	Kidney	Necrosis	0	NA
+T14_673	Kidney	Interstitial_fibrosis	0	NA
+T14_673	Kidney	Tubular_ectasia	0	NA
+T14_673	Kidney	Composite_Score	0	NA
+T15_673	Kidney	Glomerular_prolif	0	NA
+T15_673	Kidney	Tubular_degeneration	0	NA
+T15_673	Kidney	Inflammatory_infiltrate	0	NA
+T15_673	Kidney	Inflammatory_type	0	NA
+T15_673	Kidney	Inflammatory_distribution	0	NA
+T15_673	Kidney	Necrosis	0	NA
+T15_673	Kidney	Interstitial_fibrosis	0	NA
+T15_673	Kidney	Tubular_ectasia	0	NA
+T15_673	Kidney	Composite_Score	0	NA
+T2_674	Kidney	Glomerular_prolif	0	Mild to moderate hyodrnephrosis
+T2_674	Kidney	Tubular_degeneration	0	Mild to moderate hyodrnephrosis
+T2_674	Kidney	Inflammatory_infiltrate	0	Mild to moderate hyodrnephrosis
+T2_674	Kidney	Inflammatory_type	0	Mild to moderate hyodrnephrosis
+T2_674	Kidney	Inflammatory_distribution	0	Mild to moderate hyodrnephrosis
+T2_674	Kidney	Necrosis	0	Mild to moderate hyodrnephrosis
+T2_674	Kidney	Interstitial_fibrosis	1	Mild to moderate hyodrnephrosis
+T2_674	Kidney	Tubular_ectasia	0	Mild to moderate hyodrnephrosis
+T2_674	Kidney	Composite_Score	1	Mild to moderate hyodrnephrosis
+T3_674	Kidney	Glomerular_prolif	0	NA
+T3_674	Kidney	Tubular_degeneration	0	NA
+T3_674	Kidney	Inflammatory_infiltrate	1	NA
+T3_674	Kidney	Inflammatory_type	1	NA
+T3_674	Kidney	Inflammatory_distribution	1	NA
+T3_674	Kidney	Necrosis	0	NA
+T3_674	Kidney	Interstitial_fibrosis	0	NA
+T3_674	Kidney	Tubular_ectasia	0	NA
+T3_674	Kidney	Composite_Score	3	NA
+T0_675	Kidney	Glomerular_prolif	0	NA
+T0_675	Kidney	Tubular_degeneration	0	NA
+T0_675	Kidney	Inflammatory_infiltrate	0	NA
+T0_675	Kidney	Inflammatory_type	0	NA
+T0_675	Kidney	Inflammatory_distribution	0	NA
+T0_675	Kidney	Necrosis	0	NA
+T0_675	Kidney	Interstitial_fibrosis	0	NA
+T0_675	Kidney	Tubular_ectasia	0	NA
+T0_675	Kidney	Composite_Score	0	NA
+T2_675	Kidney	Glomerular_prolif	0	NA
+T2_675	Kidney	Tubular_degeneration	0	NA
+T2_675	Kidney	Inflammatory_infiltrate	0	NA
+T2_675	Kidney	Inflammatory_type	0	NA
+T2_675	Kidney	Inflammatory_distribution	0	NA
+T2_675	Kidney	Necrosis	0	NA
+T2_675	Kidney	Interstitial_fibrosis	0	NA
+T2_675	Kidney	Tubular_ectasia	0	NA
+T2_675	Kidney	Composite_Score	0	NA
+T3_675	Kidney	Glomerular_prolif	0	NA
+T3_675	Kidney	Tubular_degeneration	0	NA
+T3_675	Kidney	Inflammatory_infiltrate	1	NA
+T3_675	Kidney	Inflammatory_type	1	NA
+T3_675	Kidney	Inflammatory_distribution	2	NA
+T3_675	Kidney	Necrosis	0	NA
+T3_675	Kidney	Interstitial_fibrosis	0	NA
+T3_675	Kidney	Tubular_ectasia	0	NA
+T3_675	Kidney	Composite_Score	4	NA
+T10_677	Kidney	Glomerular_prolif	0	NA
+T10_677	Kidney	Tubular_degeneration	0	NA
+T10_677	Kidney	Inflammatory_infiltrate	0	NA
+T10_677	Kidney	Inflammatory_type	0	NA
+T10_677	Kidney	Inflammatory_distribution	0	NA
+T10_677	Kidney	Necrosis	0	NA
+T10_677	Kidney	Interstitial_fibrosis	0	NA
+T10_677	Kidney	Tubular_ectasia	0	NA
+T10_677	Kidney	Composite_Score	0	NA
+T11_677	Kidney	Glomerular_prolif	0	NA
+T11_677	Kidney	Tubular_degeneration	0	NA
+T11_677	Kidney	Inflammatory_infiltrate	0	NA
+T11_677	Kidney	Inflammatory_type	0	NA
+T11_677	Kidney	Inflammatory_distribution	0	NA
+T11_677	Kidney	Necrosis	0	NA
+T11_677	Kidney	Interstitial_fibrosis	0	NA
+T11_677	Kidney	Tubular_ectasia	0	NA
+T11_677	Kidney	Composite_Score	0	NA
+T13_677	Kidney	Glomerular_prolif	0	NA
+T13_677	Kidney	Tubular_degeneration	0	NA
+T13_677	Kidney	Inflammatory_infiltrate	0	NA
+T13_677	Kidney	Inflammatory_type	0	NA
+T13_677	Kidney	Inflammatory_distribution	0	NA
+T13_677	Kidney	Necrosis	0	NA
+T13_677	Kidney	Interstitial_fibrosis	0	NA
+T13_677	Kidney	Tubular_ectasia	0	NA
+T13_677	Kidney	Composite_Score	0	NA
+T6_669	Skin	Hyperkeratosis	0	NA
+T6_669	Skin	Acanthosis	0	NA
+T6_669	Skin	Inflammation	0	NA
+T6_669	Skin	Inflammatory_type	0	NA
+T6_669	Skin	Inflammatory_distribution	0	NA
+T6_669	Skin	Necrosis	0	NA
+T6_669	Skin	Composite_Score	0	NA
+T0_670	Skin	Hyperkeratosis	0	NA
+T0_670	Skin	Acanthosis	0	NA
+T0_670	Skin	Inflammation	0	NA
+T0_670	Skin	Inflammatory_type	0	NA
+T0_670	Skin	Inflammatory_distribution	0	NA
+T0_670	Skin	Necrosis	0	NA
+T0_670	Skin	Composite_Score	0	NA
+T1_670	Skin	Hyperkeratosis	0	NA
+T1_670	Skin	Acanthosis	1	NA
+T1_670	Skin	Inflammation	0	NA
+T1_670	Skin	Inflammatory_type	0	NA
+T1_670	Skin	Inflammatory_distribution	0	NA
+T1_670	Skin	Necrosis	0	NA
+T1_670	Skin	Composite_Score	1	NA
+T2_670	Skin	Hyperkeratosis	0	NA
+T2_670	Skin	Acanthosis	1	NA
+T2_670	Skin	Inflammation	1	NA
+T2_670	Skin	Inflammatory_type	1	NA
+T2_670	Skin	Inflammatory_distribution	2	NA
+T2_670	Skin	Necrosis	0	NA
+T2_670	Skin	Composite_Score	5	NA
+T3_670	Skin	Hyperkeratosis	0	NA
+T3_670	Skin	Acanthosis	0	NA
+T3_670	Skin	Inflammation	0	NA
+T3_670	Skin	Inflammatory_type	0	NA
+T3_670	Skin	Inflammatory_distribution	0	NA
+T3_670	Skin	Necrosis	0	NA
+T3_670	Skin	Composite_Score	0	NA
+T4_670	Skin	Hyperkeratosis	0	NA
+T4_670	Skin	Acanthosis	1	NA
+T4_670	Skin	Inflammation	0	NA
+T4_670	Skin	Inflammatory_type	0	NA
+T4_670	Skin	Inflammatory_distribution	0	NA
+T4_670	Skin	Necrosis	0	NA
+T4_670	Skin	Composite_Score	1	NA
+T5_671	Skin	Hyperkeratosis	0	Multifocal dermal edema
+T5_671	Skin	Acanthosis	1	Multifocal dermal edema
+T5_671	Skin	Inflammation	1	Multifocal dermal edema
+T5_671	Skin	Inflammatory_type	1	Multifocal dermal edema
+T5_671	Skin	Inflammatory_distribution	2	Multifocal dermal edema
+T5_671	Skin	Necrosis	0	Multifocal dermal edema
+T5_671	Skin	Composite_Score	5	Multifocal dermal edema
+T6_671	Skin	Hyperkeratosis	1	Multifocal dermal edema
+T6_671	Skin	Acanthosis	1	Multifocal dermal edema
+T6_671	Skin	Inflammation	0	Multifocal dermal edema
+T6_671	Skin	Inflammatory_type	0	Multifocal dermal edema
+T6_671	Skin	Inflammatory_distribution	0	Multifocal dermal edema
+T6_671	Skin	Necrosis	0	Multifocal dermal edema
+T6_671	Skin	Composite_Score	2	Multifocal dermal edema
+T7_671	Skin	Hyperkeratosis	1	NA
+T7_671	Skin	Acanthosis	1	NA
+T7_671	Skin	Inflammation	0	NA
+T7_671	Skin	Inflammatory_type	0	NA
+T7_671	Skin	Inflammatory_distribution	0	NA
+T7_671	Skin	Necrosis	0	NA
+T7_671	Skin	Composite_Score	2	NA
+T8_671	Skin	Hyperkeratosis	0	NA
+T8_671	Skin	Acanthosis	1	NA
+T8_671	Skin	Inflammation	0	NA
+T8_671	Skin	Inflammatory_type	0	NA
+T8_671	Skin	Inflammatory_distribution	0	NA
+T8_671	Skin	Necrosis	0	NA
+T8_671	Skin	Composite_Score	1	NA
+T10_672	Skin	Hyperkeratosis	1	NA
+T10_672	Skin	Acanthosis	2	NA
+T10_672	Skin	Inflammation	0	NA
+T10_672	Skin	Inflammatory_type	0	NA
+T10_672	Skin	Inflammatory_distribution	0	NA
+T10_672	Skin	Necrosis	0	NA
+T10_672	Skin	Composite_Score	3	NA
+T11_672	Skin	Hyperkeratosis	0	NA
+T11_672	Skin	Acanthosis	0	NA
+T11_672	Skin	Inflammation	0	NA
+T11_672	Skin	Inflammatory_type	0	NA
+T11_672	Skin	Inflammatory_distribution	0	NA
+T11_672	Skin	Necrosis	0	NA
+T11_672	Skin	Composite_Score	0	NA
+T12_672	Skin	Hyperkeratosis	0	Artifactual damage of the dermis
+T12_672	Skin	Acanthosis	0	Artifactual damage of the dermis
+T12_672	Skin	Inflammation	0	Artifactual damage of the dermis
+T12_672	Skin	Inflammatory_type	0	Artifactual damage of the dermis
+T12_672	Skin	Inflammatory_distribution	0	Artifactual damage of the dermis
+T12_672	Skin	Necrosis	0	Artifactual damage of the dermis
+T12_672	Skin	Composite_Score	0	Artifactual damage of the dermis
+T13_673	Skin	Hyperkeratosis	0	NA
+T13_673	Skin	Acanthosis	0	NA
+T13_673	Skin	Inflammation	0	NA
+T13_673	Skin	Inflammatory_type	0	NA
+T13_673	Skin	Inflammatory_distribution	0	NA
+T13_673	Skin	Necrosis	0	NA
+T13_673	Skin	Composite_Score	0	NA
+T14_673	Skin	Hyperkeratosis	0	NA
+T14_673	Skin	Acanthosis	0	NA
+T14_673	Skin	Inflammation	0	NA
+T14_673	Skin	Inflammatory_type	0	NA
+T14_673	Skin	Inflammatory_distribution	0	NA
+T14_673	Skin	Necrosis	0	NA
+T14_673	Skin	Composite_Score	0	NA
+T15_673	Skin	Hyperkeratosis	0	Two foci of subctunaeous inflammation
+T15_673	Skin	Acanthosis	0	Two foci of subctunaeous inflammation
+T15_673	Skin	Inflammation	1	Two foci of subctunaeous inflammation
+T15_673	Skin	Inflammatory_type	2	Two foci of subctunaeous inflammation
+T15_673	Skin	Inflammatory_distribution	3	Two foci of subctunaeous inflammation
+T15_673	Skin	Necrosis	0	Two foci of subctunaeous inflammation
+T15_673	Skin	Composite_Score	6	Two foci of subctunaeous inflammation
+T2_674	Skin	Hyperkeratosis	0	NA
+T2_674	Skin	Acanthosis	0	NA
+T2_674	Skin	Inflammation	0	NA
+T2_674	Skin	Inflammatory_type	0	NA
+T2_674	Skin	Inflammatory_distribution	0	NA
+T2_674	Skin	Necrosis	0	NA
+T2_674	Skin	Composite_Score	0	NA
+T3_674	Skin	Hyperkeratosis	0	NA
+T3_674	Skin	Acanthosis	0	NA
+T3_674	Skin	Inflammation	0	NA
+T3_674	Skin	Inflammatory_type	0	NA
+T3_674	Skin	Inflammatory_distribution	0	NA
+T3_674	Skin	Necrosis	0	NA
+T3_674	Skin	Composite_Score	0	NA
+T0_675	Skin	Hyperkeratosis	0	NA
+T0_675	Skin	Acanthosis	0	NA
+T0_675	Skin	Inflammation	0	NA
+T0_675	Skin	Inflammatory_type	0	NA
+T0_675	Skin	Inflammatory_distribution	0	NA
+T0_675	Skin	Necrosis	0	NA
+T0_675	Skin	Composite_Score	0	NA
+T2_675	Skin	Hyperkeratosis	0	NA
+T2_675	Skin	Acanthosis	0	NA
+T2_675	Skin	Inflammation	0	NA
+T2_675	Skin	Inflammatory_type	0	NA
+T2_675	Skin	Inflammatory_distribution	0	NA
+T2_675	Skin	Necrosis	0	NA
+T2_675	Skin	Composite_Score	0	NA
+T3_675	Skin	Hyperkeratosis	1	NA
+T3_675	Skin	Acanthosis	1	NA
+T3_675	Skin	Inflammation	0	NA
+T3_675	Skin	Inflammatory_type	0	NA
+T3_675	Skin	Inflammatory_distribution	0	NA
+T3_675	Skin	Necrosis	0	NA
+T3_675	Skin	Composite_Score	2	NA
+T10_677	Skin	Hyperkeratosis	0	NA
+T10_677	Skin	Acanthosis	1	NA
+T10_677	Skin	Inflammation	0	NA
+T10_677	Skin	Inflammatory_type	0	NA
+T10_677	Skin	Inflammatory_distribution	0	NA
+T10_677	Skin	Necrosis	0	NA
+T10_677	Skin	Composite_Score	1	NA
+T11_677	Skin	Hyperkeratosis	0	NA
+T11_677	Skin	Acanthosis	0	NA
+T11_677	Skin	Inflammation	0	NA
+T11_677	Skin	Inflammatory_type	0	NA
+T11_677	Skin	Inflammatory_distribution	0	NA
+T11_677	Skin	Necrosis	0	NA
+T11_677	Skin	Composite_Score	0	NA
+T13_677	Skin	Hyperkeratosis	1	NA
+T13_677	Skin	Acanthosis	1	NA
+T13_677	Skin	Inflammation	0	NA
+T13_677	Skin	Inflammatory_type	0	NA
+T13_677	Skin	Inflammatory_distribution	0	NA
+T13_677	Skin	Necrosis	0	NA
+T13_677	Skin	Composite_Score	2	NA
+T6_669	Spleen	Necrosis	0	NA
+T6_669	Spleen	Degeneration	0	NA
+T6_669	Spleen	Inflammation	0	NA
+T6_669	Spleen	Fibrosis	0	NA
+T6_669	Spleen	Extramedullary_hematopoiesis	0	NA
+T6_669	Spleen	Splenic_congestion	0	NA
+T6_669	Spleen	Composite_Score	0	NA
+T0_670	Spleen	Necrosis	0	NA
+T0_670	Spleen	Degeneration	0	NA
+T0_670	Spleen	Inflammation	0	NA
+T0_670	Spleen	Fibrosis	0	NA
+T0_670	Spleen	Extramedullary_hematopoiesis	0	NA
+T0_670	Spleen	Splenic_congestion	0	NA
+T0_670	Spleen	Composite_Score	0	NA
+T1_670	Spleen	Necrosis	0	NA
+T1_670	Spleen	Degeneration	0	NA
+T1_670	Spleen	Inflammation	0	NA
+T1_670	Spleen	Fibrosis	0	NA
+T1_670	Spleen	Extramedullary_hematopoiesis	0	NA
+T1_670	Spleen	Splenic_congestion	0	NA
+T1_670	Spleen	Composite_Score	0	NA
+T2_670	Spleen	Necrosis	0	Some pancreas in section (normal)
+T2_670	Spleen	Degeneration	0	Some pancreas in section (normal)
+T2_670	Spleen	Inflammation	0	Some pancreas in section (normal)
+T2_670	Spleen	Fibrosis	0	Some pancreas in section (normal)
+T2_670	Spleen	Extramedullary_hematopoiesis	0	Some pancreas in section (normal)
+T2_670	Spleen	Splenic_congestion	0	Some pancreas in section (normal)
+T2_670	Spleen	Composite_Score	0	Some pancreas in section (normal)
+T3_670	Spleen	Necrosis	0	NA
+T3_670	Spleen	Degeneration	0	NA
+T3_670	Spleen	Inflammation	0	NA
+T3_670	Spleen	Fibrosis	0	NA
+T3_670	Spleen	Extramedullary_hematopoiesis	0	NA
+T3_670	Spleen	Splenic_congestion	0	NA
+T3_670	Spleen	Composite_Score	0	NA
+T4_670	Spleen	Necrosis	0	NA
+T4_670	Spleen	Degeneration	0	NA
+T4_670	Spleen	Inflammation	0	NA
+T4_670	Spleen	Fibrosis	0	NA
+T4_670	Spleen	Extramedullary_hematopoiesis	0	NA
+T4_670	Spleen	Splenic_congestion	0	NA
+T4_670	Spleen	Composite_Score	0	NA
+T5_671	Spleen	Necrosis	0	NA
+T5_671	Spleen	Degeneration	0	NA
+T5_671	Spleen	Inflammation	0	NA
+T5_671	Spleen	Fibrosis	0	NA
+T5_671	Spleen	Extramedullary_hematopoiesis	0	NA
+T5_671	Spleen	Splenic_congestion	0	NA
+T5_671	Spleen	Composite_Score	0	NA
+T6_671	Spleen	Necrosis	0	NA
+T6_671	Spleen	Degeneration	0	NA
+T6_671	Spleen	Inflammation	0	NA
+T6_671	Spleen	Fibrosis	0	NA
+T6_671	Spleen	Extramedullary_hematopoiesis	0	NA
+T6_671	Spleen	Splenic_congestion	0	NA
+T6_671	Spleen	Composite_Score	0	NA
+T7_671	Spleen	Necrosis	0	NA
+T7_671	Spleen	Degeneration	0	NA
+T7_671	Spleen	Inflammation	0	NA
+T7_671	Spleen	Fibrosis	0	NA
+T7_671	Spleen	Extramedullary_hematopoiesis	0	NA
+T7_671	Spleen	Splenic_congestion	0	NA
+T7_671	Spleen	Composite_Score	0	NA
+T8_671	Spleen	Necrosis	0	NA
+T8_671	Spleen	Degeneration	0	NA
+T8_671	Spleen	Inflammation	0	NA
+T8_671	Spleen	Fibrosis	0	NA
+T8_671	Spleen	Extramedullary_hematopoiesis	0	NA
+T8_671	Spleen	Splenic_congestion	0	NA
+T8_671	Spleen	Composite_Score	0	NA
+T10_672	Spleen	Necrosis	0	Increased cellularity of white pulp
+T10_672	Spleen	Degeneration	0	Increased cellularity of white pulp
+T10_672	Spleen	Inflammation	0	Increased cellularity of white pulp
+T10_672	Spleen	Fibrosis	0	Increased cellularity of white pulp
+T10_672	Spleen	Extramedullary_hematopoiesis	0	Increased cellularity of white pulp
+T10_672	Spleen	Splenic_congestion	0	Increased cellularity of white pulp
+T10_672	Spleen	Composite_Score	0	Increased cellularity of white pulp
+T11_672	Spleen	Necrosis	0	Some pancreas in section (normal)
+T11_672	Spleen	Degeneration	0	Some pancreas in section (normal)
+T11_672	Spleen	Inflammation	0	Some pancreas in section (normal)
+T11_672	Spleen	Fibrosis	0	Some pancreas in section (normal)
+T11_672	Spleen	Extramedullary_hematopoiesis	0	Some pancreas in section (normal)
+T11_672	Spleen	Splenic_congestion	0	Some pancreas in section (normal)
+T11_672	Spleen	Composite_Score	0	Some pancreas in section (normal)
+T12_672	Spleen	Necrosis	0	Some pancreas in section (normal), scant melanin pigment
+T12_672	Spleen	Degeneration	0	Some pancreas in section (normal), scant melanin pigment
+T12_672	Spleen	Inflammation	0	Some pancreas in section (normal), scant melanin pigment
+T12_672	Spleen	Fibrosis	0	Some pancreas in section (normal), scant melanin pigment
+T12_672	Spleen	Extramedullary_hematopoiesis	0	Some pancreas in section (normal), scant melanin pigment
+T12_672	Spleen	Splenic_congestion	0	Some pancreas in section (normal), scant melanin pigment
+T12_672	Spleen	Composite_Score	0	Some pancreas in section (normal), scant melanin pigment
+T13_673	Spleen	Necrosis	0	Some pancreas in section (normal)
+T13_673	Spleen	Degeneration	0	Some pancreas in section (normal)
+T13_673	Spleen	Inflammation	0	Some pancreas in section (normal)
+T13_673	Spleen	Fibrosis	0	Some pancreas in section (normal)
+T13_673	Spleen	Extramedullary_hematopoiesis	0	Some pancreas in section (normal)
+T13_673	Spleen	Splenic_congestion	0	Some pancreas in section (normal)
+T13_673	Spleen	Composite_Score	0	Some pancreas in section (normal)
+T14_673	Spleen	Necrosis	0	Some pancreas in section (normal)
+T14_673	Spleen	Degeneration	0	Some pancreas in section (normal)
+T14_673	Spleen	Inflammation	0	Some pancreas in section (normal)
+T14_673	Spleen	Fibrosis	0	Some pancreas in section (normal)
+T14_673	Spleen	Extramedullary_hematopoiesis	0	Some pancreas in section (normal)
+T14_673	Spleen	Splenic_congestion	0	Some pancreas in section (normal)
+T14_673	Spleen	Composite_Score	0	Some pancreas in section (normal)
+T15_673	Spleen	Necrosis	0	NA
+T15_673	Spleen	Degeneration	0	NA
+T15_673	Spleen	Inflammation	0	NA
+T15_673	Spleen	Fibrosis	0	NA
+T15_673	Spleen	Extramedullary_hematopoiesis	0	NA
+T15_673	Spleen	Splenic_congestion	0	NA
+T15_673	Spleen	Composite_Score	0	NA
+T2_674	Spleen	Necrosis	0	NA
+T2_674	Spleen	Degeneration	0	NA
+T2_674	Spleen	Inflammation	0	NA
+T2_674	Spleen	Fibrosis	0	NA
+T2_674	Spleen	Extramedullary_hematopoiesis	0	NA
+T2_674	Spleen	Splenic_congestion	0	NA
+T2_674	Spleen	Composite_Score	0	NA
+T3_674	Spleen	Necrosis	0	NA
+T3_674	Spleen	Degeneration	0	NA
+T3_674	Spleen	Inflammation	0	NA
+T3_674	Spleen	Fibrosis	0	NA
+T3_674	Spleen	Extramedullary_hematopoiesis	0	NA
+T3_674	Spleen	Splenic_congestion	0	NA
+T3_674	Spleen	Composite_Score	0	NA
+T0_675	Spleen	Necrosis	0	NA
+T0_675	Spleen	Degeneration	0	NA
+T0_675	Spleen	Inflammation	0	NA
+T0_675	Spleen	Fibrosis	0	NA
+T0_675	Spleen	Extramedullary_hematopoiesis	0	NA
+T0_675	Spleen	Splenic_congestion	0	NA
+T0_675	Spleen	Composite_Score	0	NA
+T2_675	Spleen	Necrosis	0	NA
+T2_675	Spleen	Degeneration	0	NA
+T2_675	Spleen	Inflammation	0	NA
+T2_675	Spleen	Fibrosis	0	NA
+T2_675	Spleen	Extramedullary_hematopoiesis	0	NA
+T2_675	Spleen	Splenic_congestion	0	NA
+T2_675	Spleen	Composite_Score	0	NA
+T3_675	Spleen	Necrosis	0	NA
+T3_675	Spleen	Degeneration	0	NA
+T3_675	Spleen	Inflammation	0	NA
+T3_675	Spleen	Fibrosis	0	NA
+T3_675	Spleen	Extramedullary_hematopoiesis	0	NA
+T3_675	Spleen	Splenic_congestion	0	NA
+T3_675	Spleen	Composite_Score	0	NA
+T10_677	Spleen	Necrosis	0	NA
+T10_677	Spleen	Degeneration	0	NA
+T10_677	Spleen	Inflammation	0	NA
+T10_677	Spleen	Fibrosis	0	NA
+T10_677	Spleen	Extramedullary_hematopoiesis	0	NA
+T10_677	Spleen	Splenic_congestion	0	NA
+T10_677	Spleen	Composite_Score	0	NA
+T11_677	Spleen	Necrosis	0	NA
+T11_677	Spleen	Degeneration	0	NA
+T11_677	Spleen	Inflammation	0	NA
+T11_677	Spleen	Fibrosis	0	NA
+T11_677	Spleen	Extramedullary_hematopoiesis	0	NA
+T11_677	Spleen	Splenic_congestion	0	NA
+T11_677	Spleen	Composite_Score	0	NA
+T13_677	Spleen	Necrosis	0	NA
+T13_677	Spleen	Degeneration	0	NA
+T13_677	Spleen	Inflammation	0	NA
+T13_677	Spleen	Fibrosis	0	NA
+T13_677	Spleen	Extramedullary_hematopoiesis	0	NA
+T13_677	Spleen	Splenic_congestion	0	NA
+T13_677	Spleen	Composite_Score	0	NA
+T6_669	Bone	Necrosis	0	NA
+T6_669	Bone	Growth_plate_disorg	0	NA
+T6_669	Bone	Articular_cartilage_degen	0	NA
+T6_669	Bone	Osteophyte_formation	0	NA
+T6_669	Bone	Periosteal_reaction	0	NA
+T6_669	Bone	bony_sclerosis	0	NA
+T6_669	Bone	Composite_Score	0	NA
+T0_670	Bone	Necrosis	0	NA
+T0_670	Bone	Growth_plate_disorg	0	NA
+T0_670	Bone	Articular_cartilage_degen	0	NA
+T0_670	Bone	Osteophyte_formation	0	NA
+T0_670	Bone	Periosteal_reaction	0	NA
+T0_670	Bone	bony_sclerosis	0	NA
+T0_670	Bone	Composite_Score	0	NA
+T1_670	Bone	Necrosis	0	Third trochanter visible
+T1_670	Bone	Growth_plate_disorg	0	Third trochanter visible
+T1_670	Bone	Articular_cartilage_degen	0	Third trochanter visible
+T1_670	Bone	Osteophyte_formation	0	Third trochanter visible
+T1_670	Bone	Periosteal_reaction	0	Third trochanter visible
+T1_670	Bone	bony_sclerosis	0	Third trochanter visible
+T1_670	Bone	Composite_Score	0	Third trochanter visible
+T2_670	Bone	Necrosis	0	Missing secondary ossification region
+T2_670	Bone	Growth_plate_disorg	0	Missing secondary ossification region
+T2_670	Bone	Articular_cartilage_degen	0	Missing secondary ossification region
+T2_670	Bone	Osteophyte_formation	0	Missing secondary ossification region
+T2_670	Bone	Periosteal_reaction	0	Missing secondary ossification region
+T2_670	Bone	bony_sclerosis	0	Missing secondary ossification region
+T2_670	Bone	Composite_Score	0	Missing secondary ossification region
+T3_670	Bone	Necrosis	0	Variation of growth plate thickness
+T3_670	Bone	Growth_plate_disorg	1	Variation of growth plate thickness
+T3_670	Bone	Articular_cartilage_degen	0	Variation of growth plate thickness
+T3_670	Bone	Osteophyte_formation	0	Variation of growth plate thickness
+T3_670	Bone	Periosteal_reaction	0	Variation of growth plate thickness
+T3_670	Bone	bony_sclerosis	0	Variation of growth plate thickness
+T3_670	Bone	Composite_Score	1	Variation of growth plate thickness
+T4_670	Bone	Necrosis	0	NA
+T4_670	Bone	Growth_plate_disorg	0	NA
+T4_670	Bone	Articular_cartilage_degen	0	NA
+T4_670	Bone	Osteophyte_formation	0	NA
+T4_670	Bone	Periosteal_reaction	0	NA
+T4_670	Bone	bony_sclerosis	0	NA
+T4_670	Bone	Composite_Score	0	NA
+T5_671	Bone	Necrosis	0	NA
+T5_671	Bone	Growth_plate_disorg	0	NA
+T5_671	Bone	Articular_cartilage_degen	0	NA
+T5_671	Bone	Osteophyte_formation	0	NA
+T5_671	Bone	Periosteal_reaction	0	NA
+T5_671	Bone	bony_sclerosis	0	NA
+T5_671	Bone	Composite_Score	0	NA
+T6_671	Bone	Necrosis	0	Scant skeletal muscle degeneration
+T6_671	Bone	Growth_plate_disorg	1	Scant skeletal muscle degeneration
+T6_671	Bone	Articular_cartilage_degen	0	Scant skeletal muscle degeneration
+T6_671	Bone	Osteophyte_formation	0	Scant skeletal muscle degeneration
+T6_671	Bone	Periosteal_reaction	0	Scant skeletal muscle degeneration
+T6_671	Bone	bony_sclerosis	0	Scant skeletal muscle degeneration
+T6_671	Bone	Composite_Score	1	Scant skeletal muscle degeneration
+T7_671	Bone	Necrosis	0	NA
+T7_671	Bone	Growth_plate_disorg	0	NA
+T7_671	Bone	Articular_cartilage_degen	0	NA
+T7_671	Bone	Osteophyte_formation	0	NA
+T7_671	Bone	Periosteal_reaction	0	NA
+T7_671	Bone	bony_sclerosis	0	NA
+T7_671	Bone	Composite_Score	0	NA
+T8_671	Bone	Necrosis	0	NA
+T8_671	Bone	Growth_plate_disorg	0	NA
+T8_671	Bone	Articular_cartilage_degen	0	NA
+T8_671	Bone	Osteophyte_formation	0	NA
+T8_671	Bone	Periosteal_reaction	0	NA
+T8_671	Bone	bony_sclerosis	0	NA
+T8_671	Bone	Composite_Score	0	NA
+T10_672	Bone	Necrosis	0	Bony protuberence
+T10_672	Bone	Growth_plate_disorg	0	Bony protuberence
+T10_672	Bone	Articular_cartilage_degen	0	Bony protuberence
+T10_672	Bone	Osteophyte_formation	0	Bony protuberence
+T10_672	Bone	Periosteal_reaction	0	Bony protuberence
+T10_672	Bone	bony_sclerosis	0	Bony protuberence
+T10_672	Bone	Composite_Score	0	Bony protuberence
+T11_672	Bone	Necrosis	0	Bony protuberence
+T11_672	Bone	Growth_plate_disorg	0	Bony protuberence
+T11_672	Bone	Articular_cartilage_degen	0	Bony protuberence
+T11_672	Bone	Osteophyte_formation	0	Bony protuberence
+T11_672	Bone	Periosteal_reaction	0	Bony protuberence
+T11_672	Bone	bony_sclerosis	0	Bony protuberence
+T11_672	Bone	Composite_Score	0	Bony protuberence
+T12_672	Bone	Necrosis	0	Half of the bone is not in section
+T12_672	Bone	Growth_plate_disorg	0	Half of the bone is not in section
+T12_672	Bone	Articular_cartilage_degen	0	Half of the bone is not in section
+T12_672	Bone	Osteophyte_formation	0	Half of the bone is not in section
+T12_672	Bone	Periosteal_reaction	0	Half of the bone is not in section
+T12_672	Bone	bony_sclerosis	0	Half of the bone is not in section
+T12_672	Bone	Composite_Score	0	Half of the bone is not in section
+T13_673	Bone	Necrosis	0	NA
+T13_673	Bone	Growth_plate_disorg	0	NA
+T13_673	Bone	Articular_cartilage_degen	0	NA
+T13_673	Bone	Osteophyte_formation	0	NA
+T13_673	Bone	Periosteal_reaction	0	NA
+T13_673	Bone	bony_sclerosis	0	NA
+T13_673	Bone	Composite_Score	0	NA
+T14_673	Bone	Necrosis	0	Third trochanter visible
+T14_673	Bone	Growth_plate_disorg	0	Third trochanter visible
+T14_673	Bone	Articular_cartilage_degen	0	Third trochanter visible
+T14_673	Bone	Osteophyte_formation	0	Third trochanter visible
+T14_673	Bone	Periosteal_reaction	0	Third trochanter visible
+T14_673	Bone	bony_sclerosis	0	Third trochanter visible
+T14_673	Bone	Composite_Score	0	Third trochanter visible
+T15_673	Bone	Necrosis	0	NA
+T15_673	Bone	Growth_plate_disorg	0	NA
+T15_673	Bone	Articular_cartilage_degen	0	NA
+T15_673	Bone	Osteophyte_formation	0	NA
+T15_673	Bone	Periosteal_reaction	0	NA
+T15_673	Bone	bony_sclerosis	0	NA
+T15_673	Bone	Composite_Score	0	NA
+T2_674	Bone	Necrosis	0	NA
+T2_674	Bone	Growth_plate_disorg	0	NA
+T2_674	Bone	Articular_cartilage_degen	0	NA
+T2_674	Bone	Osteophyte_formation	0	NA
+T2_674	Bone	Periosteal_reaction	0	NA
+T2_674	Bone	bony_sclerosis	0	NA
+T2_674	Bone	Composite_Score	0	NA
+T3_674	Bone	Necrosis	0	Partially out of section
+T3_674	Bone	Growth_plate_disorg	0	Partially out of section
+T3_674	Bone	Articular_cartilage_degen	0	Partially out of section
+T3_674	Bone	Osteophyte_formation	0	Partially out of section
+T3_674	Bone	Periosteal_reaction	0	Partially out of section
+T3_674	Bone	bony_sclerosis	0	Partially out of section
+T3_674	Bone	Composite_Score	0	Partially out of section
+T0_675	Bone	Necrosis	0	Degenerative chondrocytes in the growth plate
+T0_675	Bone	Growth_plate_disorg	1	Degenerative chondrocytes in the growth plate
+T0_675	Bone	Articular_cartilage_degen	0	Degenerative chondrocytes in the growth plate
+T0_675	Bone	Osteophyte_formation	0	Degenerative chondrocytes in the growth plate
+T0_675	Bone	Periosteal_reaction	0	Degenerative chondrocytes in the growth plate
+T0_675	Bone	bony_sclerosis	0	Degenerative chondrocytes in the growth plate
+T0_675	Bone	Composite_Score	1	Degenerative chondrocytes in the growth plate
+T2_675	Bone	Necrosis	0	Scant skeletal muscle degeneration
+T2_675	Bone	Growth_plate_disorg	0	Scant skeletal muscle degeneration
+T2_675	Bone	Articular_cartilage_degen	0	Scant skeletal muscle degeneration
+T2_675	Bone	Osteophyte_formation	0	Scant skeletal muscle degeneration
+T2_675	Bone	Periosteal_reaction	0	Scant skeletal muscle degeneration
+T2_675	Bone	bony_sclerosis	0	Scant skeletal muscle degeneration
+T2_675	Bone	Composite_Score	0	Scant skeletal muscle degeneration
+T3_675	Bone	Necrosis	0	NA
+T3_675	Bone	Growth_plate_disorg	0	NA
+T3_675	Bone	Articular_cartilage_degen	0	NA
+T3_675	Bone	Osteophyte_formation	0	NA
+T3_675	Bone	Periosteal_reaction	0	NA
+T3_675	Bone	bony_sclerosis	0	NA
+T3_675	Bone	Composite_Score	0	NA
+T10_677	Bone	Necrosis	1	Focal region of necrosis in the growth plate
+T10_677	Bone	Growth_plate_disorg	1	Focal region of necrosis in the growth plate
+T10_677	Bone	Articular_cartilage_degen	0	Focal region of necrosis in the growth plate
+T10_677	Bone	Osteophyte_formation	0	Focal region of necrosis in the growth plate
+T10_677	Bone	Periosteal_reaction	0	Focal region of necrosis in the growth plate
+T10_677	Bone	bony_sclerosis	0	Focal region of necrosis in the growth plate
+T10_677	Bone	Composite_Score	2	Focal region of necrosis in the growth plate
+T11_677	Bone	Necrosis	0	NA
+T11_677	Bone	Growth_plate_disorg	0	NA
+T11_677	Bone	Articular_cartilage_degen	0	NA
+T11_677	Bone	Osteophyte_formation	0	NA
+T11_677	Bone	Periosteal_reaction	0	NA
+T11_677	Bone	bony_sclerosis	0	NA
+T11_677	Bone	Composite_Score	0	NA
+T13_677	Bone	Necrosis	0	NA
+T13_677	Bone	Growth_plate_disorg	0	NA
+T13_677	Bone	Articular_cartilage_degen	0	NA
+T13_677	Bone	Osteophyte_formation	0	NA
+T13_677	Bone	Periosteal_reaction	0	NA
+T13_677	Bone	bony_sclerosis	0	NA
+T13_677	Bone	Composite_Score	0	NA
+T3_670	Bone marrow	Cellularity	0	Preodminately erythroid
+T3_670	Bone marrow	Estimated_M_E_ratio	0	Preodminately erythroid
+T3_670	Bone marrow	Granulocytic_Myeloid_lineage	0	Preodminately erythroid
+T3_670	Bone marrow	Erythroid_lineage	0	Preodminately erythroid
+T3_670	Bone marrow	Megakaryocytic_lineage	0	Preodminately erythroid
+T3_670	Bone marrow	Hematopoietic_cell_distribution	0	Preodminately erythroid
+T3_670	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	Preodminately erythroid
+T3_670	Bone marrow	Composite_Score	0	Preodminately erythroid
+T2_670	Bone marrow	Cellularity	0	NA
+T2_670	Bone marrow	Estimated_M_E_ratio	0	NA
+T2_670	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T2_670	Bone marrow	Erythroid_lineage	0	NA
+T2_670	Bone marrow	Megakaryocytic_lineage	0	NA
+T2_670	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T2_670	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T2_670	Bone marrow	Composite_Score	0	NA
+T1_670	Bone marrow	Cellularity	0	Slightly expanded sinusoids
+T1_670	Bone marrow	Estimated_M_E_ratio	0	Slightly expanded sinusoids
+T1_670	Bone marrow	Granulocytic_Myeloid_lineage	0	Slightly expanded sinusoids
+T1_670	Bone marrow	Erythroid_lineage	0	Slightly expanded sinusoids
+T1_670	Bone marrow	Megakaryocytic_lineage	0	Slightly expanded sinusoids
+T1_670	Bone marrow	Hematopoietic_cell_distribution	0	Slightly expanded sinusoids
+T1_670	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	1	Slightly expanded sinusoids
+T1_670	Bone marrow	Composite_Score	1	Slightly expanded sinusoids
+T0_670	Bone marrow	Cellularity	0	NA
+T0_670	Bone marrow	Estimated_M_E_ratio	0	NA
+T0_670	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T0_670	Bone marrow	Erythroid_lineage	0	NA
+T0_670	Bone marrow	Megakaryocytic_lineage	0	NA
+T0_670	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T0_670	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T0_670	Bone marrow	Composite_Score	0	NA
+T6_669	Bone marrow	Cellularity	0	NA
+T6_669	Bone marrow	Estimated_M_E_ratio	0	NA
+T6_669	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T6_669	Bone marrow	Erythroid_lineage	0	NA
+T6_669	Bone marrow	Megakaryocytic_lineage	0	NA
+T6_669	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T6_669	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T6_669	Bone marrow	Composite_Score	0	NA
+T4_670	Bone marrow	Cellularity	0	Preodminately erythroid
+T4_670	Bone marrow	Estimated_M_E_ratio	0	Preodminately erythroid
+T4_670	Bone marrow	Granulocytic_Myeloid_lineage	0	Preodminately erythroid
+T4_670	Bone marrow	Erythroid_lineage	0	Preodminately erythroid
+T4_670	Bone marrow	Megakaryocytic_lineage	0	Preodminately erythroid
+T4_670	Bone marrow	Hematopoietic_cell_distribution	0	Preodminately erythroid
+T4_670	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	Preodminately erythroid
+T4_670	Bone marrow	Composite_Score	0	Preodminately erythroid
+T5_671	Bone marrow	Cellularity	0	NA
+T5_671	Bone marrow	Estimated_M_E_ratio	0	NA
+T5_671	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T5_671	Bone marrow	Erythroid_lineage	0	NA
+T5_671	Bone marrow	Megakaryocytic_lineage	0	NA
+T5_671	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T5_671	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T5_671	Bone marrow	Composite_Score	0	NA
+T6_671	Bone marrow	Cellularity	0	NA
+T6_671	Bone marrow	Estimated_M_E_ratio	0	NA
+T6_671	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T6_671	Bone marrow	Erythroid_lineage	0	NA
+T6_671	Bone marrow	Megakaryocytic_lineage	0	NA
+T6_671	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T6_671	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T6_671	Bone marrow	Composite_Score	0	NA
+T7_671	Bone marrow	Cellularity	0	NA
+T7_671	Bone marrow	Estimated_M_E_ratio	0	NA
+T7_671	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T7_671	Bone marrow	Erythroid_lineage	0	NA
+T7_671	Bone marrow	Megakaryocytic_lineage	0	NA
+T7_671	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T7_671	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T7_671	Bone marrow	Composite_Score	0	NA
+T8_671	Bone marrow	Cellularity	0	NA
+T8_671	Bone marrow	Estimated_M_E_ratio	0	NA
+T8_671	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T8_671	Bone marrow	Erythroid_lineage	0	NA
+T8_671	Bone marrow	Megakaryocytic_lineage	0	NA
+T8_671	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T8_671	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T8_671	Bone marrow	Composite_Score	0	NA
+T11_672	Bone marrow	Cellularity	0	Slightly expanded sinusoids
+T11_672	Bone marrow	Estimated_M_E_ratio	0	Slightly expanded sinusoids
+T11_672	Bone marrow	Granulocytic_Myeloid_lineage	0	Slightly expanded sinusoids
+T11_672	Bone marrow	Erythroid_lineage	0	Slightly expanded sinusoids
+T11_672	Bone marrow	Megakaryocytic_lineage	0	Slightly expanded sinusoids
+T11_672	Bone marrow	Hematopoietic_cell_distribution	0	Slightly expanded sinusoids
+T11_672	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	1	Slightly expanded sinusoids
+T11_672	Bone marrow	Composite_Score	1	Slightly expanded sinusoids
+T10_672	Bone marrow	Cellularity	0	Slightly expanded sinusoids
+T10_672	Bone marrow	Estimated_M_E_ratio	0	Slightly expanded sinusoids
+T10_672	Bone marrow	Granulocytic_Myeloid_lineage	0	Slightly expanded sinusoids
+T10_672	Bone marrow	Erythroid_lineage	0	Slightly expanded sinusoids
+T10_672	Bone marrow	Megakaryocytic_lineage	0	Slightly expanded sinusoids
+T10_672	Bone marrow	Hematopoietic_cell_distribution	0	Slightly expanded sinusoids
+T10_672	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	1	Slightly expanded sinusoids
+T10_672	Bone marrow	Composite_Score	1	Slightly expanded sinusoids
+T12_672	Bone marrow	Cellularity	0	Incomplete section, Slightly expanded sinusoids
+T12_672	Bone marrow	Estimated_M_E_ratio	0	Incomplete section, Slightly expanded sinusoids
+T12_672	Bone marrow	Granulocytic_Myeloid_lineage	0	Incomplete section, Slightly expanded sinusoids
+T12_672	Bone marrow	Erythroid_lineage	0	Incomplete section, Slightly expanded sinusoids
+T12_672	Bone marrow	Megakaryocytic_lineage	0	Incomplete section, Slightly expanded sinusoids
+T12_672	Bone marrow	Hematopoietic_cell_distribution	0	Incomplete section, Slightly expanded sinusoids
+T12_672	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	1	Incomplete section, Slightly expanded sinusoids
+T12_672	Bone marrow	Composite_Score	1	Incomplete section, Slightly expanded sinusoids
+T13_673	Bone marrow	Cellularity	0	NA
+T13_673	Bone marrow	Estimated_M_E_ratio	0	NA
+T13_673	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T13_673	Bone marrow	Erythroid_lineage	0	NA
+T13_673	Bone marrow	Megakaryocytic_lineage	0	NA
+T13_673	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T13_673	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T13_673	Bone marrow	Composite_Score	0	NA
+T14_673	Bone marrow	Cellularity	0	Preodminately erythroid
+T14_673	Bone marrow	Estimated_M_E_ratio	0	Preodminately erythroid
+T14_673	Bone marrow	Granulocytic_Myeloid_lineage	0	Preodminately erythroid
+T14_673	Bone marrow	Erythroid_lineage	0	Preodminately erythroid
+T14_673	Bone marrow	Megakaryocytic_lineage	0	Preodminately erythroid
+T14_673	Bone marrow	Hematopoietic_cell_distribution	0	Preodminately erythroid
+T14_673	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	Preodminately erythroid
+T14_673	Bone marrow	Composite_Score	0	Preodminately erythroid
+T15_673	Bone marrow	Cellularity	0	Preodminately erythroid
+T15_673	Bone marrow	Estimated_M_E_ratio	0	Preodminately erythroid
+T15_673	Bone marrow	Granulocytic_Myeloid_lineage	0	Preodminately erythroid
+T15_673	Bone marrow	Erythroid_lineage	0	Preodminately erythroid
+T15_673	Bone marrow	Megakaryocytic_lineage	0	Preodminately erythroid
+T15_673	Bone marrow	Hematopoietic_cell_distribution	0	Preodminately erythroid
+T15_673	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	Preodminately erythroid
+T15_673	Bone marrow	Composite_Score	0	Preodminately erythroid
+T2_674	Bone marrow	Cellularity	0	Incomplete section
+T2_674	Bone marrow	Estimated_M_E_ratio	0	Incomplete section
+T2_674	Bone marrow	Granulocytic_Myeloid_lineage	0	Incomplete section
+T2_674	Bone marrow	Erythroid_lineage	0	Incomplete section
+T2_674	Bone marrow	Megakaryocytic_lineage	0	Incomplete section
+T2_674	Bone marrow	Hematopoietic_cell_distribution	0	Incomplete section
+T2_674	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	Incomplete section
+T2_674	Bone marrow	Composite_Score	0	Incomplete section
+T2_675	Bone marrow	Cellularity	0	NA
+T2_675	Bone marrow	Estimated_M_E_ratio	0	NA
+T2_675	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T2_675	Bone marrow	Erythroid_lineage	0	NA
+T2_675	Bone marrow	Megakaryocytic_lineage	0	NA
+T2_675	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T2_675	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T2_675	Bone marrow	Composite_Score	0	NA
+T3_674	Bone marrow	Cellularity	0	NA
+T3_674	Bone marrow	Estimated_M_E_ratio	0	NA
+T3_674	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T3_674	Bone marrow	Erythroid_lineage	0	NA
+T3_674	Bone marrow	Megakaryocytic_lineage	0	NA
+T3_674	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T3_674	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T3_674	Bone marrow	Composite_Score	0	NA
+T0_675	Bone marrow	Cellularity	0	NA
+T0_675	Bone marrow	Estimated_M_E_ratio	0	NA
+T0_675	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T0_675	Bone marrow	Erythroid_lineage	0	NA
+T0_675	Bone marrow	Megakaryocytic_lineage	0	NA
+T0_675	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T0_675	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T0_675	Bone marrow	Composite_Score	0	NA
+T13_677	Bone marrow	Cellularity	0	Preodminately erythroid
+T13_677	Bone marrow	Estimated_M_E_ratio	0	Preodminately erythroid
+T13_677	Bone marrow	Granulocytic_Myeloid_lineage	0	Preodminately erythroid
+T13_677	Bone marrow	Erythroid_lineage	0	Preodminately erythroid
+T13_677	Bone marrow	Megakaryocytic_lineage	0	Preodminately erythroid
+T13_677	Bone marrow	Hematopoietic_cell_distribution	0	Preodminately erythroid
+T13_677	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	Preodminately erythroid
+T13_677	Bone marrow	Composite_Score	0	Preodminately erythroid
+T11_677	Bone marrow	Cellularity	0	Preodminately erythroid
+T11_677	Bone marrow	Estimated_M_E_ratio	0	Preodminately erythroid
+T11_677	Bone marrow	Granulocytic_Myeloid_lineage	0	Preodminately erythroid
+T11_677	Bone marrow	Erythroid_lineage	0	Preodminately erythroid
+T11_677	Bone marrow	Megakaryocytic_lineage	0	Preodminately erythroid
+T11_677	Bone marrow	Hematopoietic_cell_distribution	0	Preodminately erythroid
+T11_677	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	Preodminately erythroid
+T11_677	Bone marrow	Composite_Score	0	Preodminately erythroid
+T3_675	Bone marrow	Cellularity	0	NA
+T3_675	Bone marrow	Estimated_M_E_ratio	0	NA
+T3_675	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T3_675	Bone marrow	Erythroid_lineage	0	NA
+T3_675	Bone marrow	Megakaryocytic_lineage	0	NA
+T3_675	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T3_675	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T3_675	Bone marrow	Composite_Score	0	NA
+T10_677	Bone marrow	Cellularity	0	NA
+T10_677	Bone marrow	Estimated_M_E_ratio	0	NA
+T10_677	Bone marrow	Granulocytic_Myeloid_lineage	0	NA
+T10_677	Bone marrow	Erythroid_lineage	0	NA
+T10_677	Bone marrow	Megakaryocytic_lineage	0	NA
+T10_677	Bone marrow	Hematopoietic_cell_distribution	0	NA
+T10_677	Bone marrow	Stromal_elements_sinusoids_pigment_reticulin_fibers_etc	0	NA
+T10_677	Bone marrow	Composite_Score	0	NA
